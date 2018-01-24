@@ -1,0 +1,10 @@
+start = letter
+letter = element letter {introduction, line+, signature}
+introduction = element introduction {text*, subject*, text*}
+line = element line {type*, text*, location*, text*}
+signature = element signature {text}
+
+subject = element subject {text}
+location = element location {text}
+
+type = attribute type {text}

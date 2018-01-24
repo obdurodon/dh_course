@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="a.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <title>L' Via l'Viaquez</title>
+    <artist>The Mars Volta</artist>
+    <lyrics>
+        <foreign lang="Spanish">
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>Hija de <name>Miranda</name>,</line>
+            <line>Tu Apellido se cambió</line>
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>Sin ojos me quieres dar</line>
+            <line>Una historia sin mi madre</line>
+            <line>Sólo tengo que decirte</line>
+            <line>El dolor de noche dice</line>
+            <line>Sólo se quedo el vestido</line>
+            <line>Le lavé la sangre</line>
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>No dejes de descansar</line>
+            <line>En la calle caminas</line>
+            <line>¿Quién te va a perseguir?</line>
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>Te quieren matar</line>
+            <line>Dientes de Machete</line>
+            <line>Cabeza de gallo</line>
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>Durmiendo en paz</line>
+            <line>Abre los ojos,</line>
+            <line>Todo cambiará</line>
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>Soñando de venganza</line>
+            <line>Y yo te juro</line>
+            <line>Lo van a pagar</line>
+        </foreign>
+        <chorus>
+            <line>Blackmailed, she fell off every mountain</line>
+            <line>The ones they tightly wrapped in tape</line>
+            <line>In her eraser sang the guilty</line>
+            <line>As it made the best mistakes</line>
+            <line>And with everybody that I find</line>
+            <line>And with every claymore that they mine</line>
+            <line>I won't forget who I'm looking for</line>
+            <line>Oh mother help me I'm looking for</line>
+        </chorus>
+        <foreign lang="Spanish">
+            <line>
+                <name>L'Via</name>
+            </line>
+            <line>Hija de <name>Miranda</name>,</line>
+            <line>Tu apellido se cambió</line>
+            <line>L'Via</line>
+            <line>Sin ojos me quieres dar</line>
+            <line>Una historia sin mi madre</line>
+            <line>Sólo tengo que decirte</line>
+            <line>El dolor de noche dice</line>
+            <line>Sólo se quedo el vestido</line>
+            <line>Le lavé la sangre</line>
+        </foreign>
+        <chorus>
+            <line>Blackmailed, she fell off every mountain</line>
+            <line>The ones they tightly wrapped in tape</line>
+            <line>In her eraser sang the guilty</line>
+            <line>As it made the best mistakes</line>
+            <line>And with everybody that I find</line>
+            <line>And with every claymore that they mine</line>
+            <line>I won't forget who I'm looking for</line>
+            <line>Oh mother help me I'm looking for</line>
+        </chorus>
+        <foreign lang="Spanish">
+            <line>Sólo tengo</line>
+            <line>Una hora</line>
+            <line>Y me duermo</line>
+            <line>Terminado</line>
+            <line>Por veinticinco</line>
+            <line>Años pasaron</line>
+            <line>Siguen los cuerpos</line>
+            <line>Aquí temblando</line>
+            <line>Tomé la sangre,</line>
+            <line>Comí el cuerpo,</line>
+            <line>Mis lágrimas</line>
+            <line>Quiebra un espejo</line>
+        </foreign>
+        <bridge>
+            <line>When all the worms come Crawlin out of your head</line>
+            <line>Telling you Don't be afraid</line>
+            <line>When all the worms come Crawlin out of your head</line>
+            <line>Telling you Don't be afraid</line>
+        </bridge>
+        <chorus><line>Blackmailed she fell off every mountain</line>
+            <line>The ones they tightly wrapped in tape</line>
+            <line>In her eraser sang the guilty</line>
+            <line>As it made the best mistakes</line></chorus>
+        <line>Shark kites got tangled in the moleskin</line>
+        <line>Urgent plea of escape</line>
+        <line>A mouth to mouth on the chalkboard</line>
+        <line>Written in fingernail distaste</line>
+        <line>And with everybody that I find</line>
+        <line>And with every claymore that they mine</line>
+        <line>I won't forget who I'm looking for</line>
+        <line>Oh mother help me I'm looking for</line>
+
+    </lyrics>
+</song>

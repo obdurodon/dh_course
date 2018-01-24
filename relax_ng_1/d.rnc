@@ -1,0 +1,16 @@
+start = poem
+poem = element poem { poemOne, poemTwo }
+poemOne = element poemOne { authorName, title, author, body }
+poemTwo = element poemTwo { title, author, body }
+authorName = element authorName { text }
+title = element title { text }
+author = element author { nameAuthor, text }
+nameAuthor = attribute nameAuthor { text }
+body = element body { line+ }
+line = element line { (structure | character | lineType | text)+, text }
+structure = element structure { (type | character | text)+ }
+type = attribute type { text }
+character = element character { nameCharacter, text }
+nameCharacter = attribute name { text }
+lineType = element lineType { kind, text }
+kind = attribute kind { text }

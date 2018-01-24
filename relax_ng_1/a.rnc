@@ -1,0 +1,11 @@
+start = song
+song = element song {title?, artist?, lyrics}
+title = element title {text}
+artist = element artist {text}
+lyrics = element lyrics {foreign*, chorus*, foreign*, chorus*, foreign, bridge, chorus+, line+}
+chorus = element chorus {line*, text}
+foreign = element foreign {lang, line*, text}
+lang = attribute lang {text}
+bridge = element bridge {line*, text}
+line = element line {text, name*, text}
+name = element name {text}
