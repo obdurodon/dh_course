@@ -1,0 +1,10 @@
+start = song
+song = element song { artist+, title, lyrics }
+artist = element artist { person, text }
+person = attribute person { "lamar" | "sza" }
+title = element title { text }
+lyrics = element lyrics { (chorus*, verse*)*, artist* }
+chorus = element chorus { part, person*, text }
+part = attribute part { "A" | "B" }
+verse = element verse { number, person, text }
+number = attribute number { xsd:int }

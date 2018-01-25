@@ -1,0 +1,11 @@
+start = excerpt
+excerpt = element excerpt { chapter, title, paragraph+ }
+chapter = element chapter { text }
+title = element title { text }
+paragraph = element paragraph { character+ & address* & description+ & job* & text }
+character = element character { target+ & description* & text }
+target = attribute target { text }
+address = element address { text }
+tone = attribute tone { text }
+description = element description { tone* & character* & target* & text }
+job = element job { target, text }

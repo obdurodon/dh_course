@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="e.rnc" type="application/relax-ng-compact-syntax"?>
+<excerpt>
+    <chapter>CHAPTER ONE</chapter>
+    <title>The Boy Who Lived</title>
+    <paragraph><character target="vernon">Mr.</character> and <character target="petunia">Mrs.
+            Dursley</character>, of <address>number four, Privet Drive,</address> were proud to say
+        that they were <description target="petunia vernon" tone="neutral">perfectly
+            normal</description>, thank you very much. <character target="petunia vernon"
+            >They</character> were the last people you'd expect to be involved in anything strange
+        or mysterious, because they just didn't hold with such nonsense.</paragraph>
+    <paragraph><character target="vernon">Mr. Dursley</character> was the <job target="vernon"
+            >director of a firm called Grunnings,</job> which made drills. <description
+            target="vernon" tone="neutral">He was a big, beefy man with hardly any neck, although he
+            did have a very large mustache.</description>
+        <description target="petunia" tone="neutral">Mrs. Dursley was thin and blonde and had nearly
+            twice the usual amount of neck,</description>
+        <description target="petunia" tone="negative">which came in very useful as she spent so much
+            of her time craning over garden fences, spying on the neighbors.</description>
+        <character target="petunia vernon">The Dursleys</character> had a <character target="dudley"
+            >small son called Dudley</character> and in their opinion there was no finer boy
+        anywhere.</paragraph>
+    <paragraph><character target="vernon petunia">The Dursleys</character> had everything they
+        wanted, but they also had a secret, and their greatest fear was that somebody would discover
+        it. They didn't think they could bear it if anyone found out about <character
+            target="lily james">the Potters.</character>
+        <character target="lily">Mrs. Potter</character> was <character target="petunia">Mrs.
+            Dursley</character>'s sister, but they hadn't met for several years; in fact, <character
+            target="petunia">Mrs. Dursley</character>
+        <description target="petunia" tone="negative">pretended she didn't have a
+            sister</description>, because her <character target="lily">sister</character> and
+            <character target="james"><description target="james" tone="negative">her
+                good-for-nothing husband</description></character> were as unDursleyish as it was
+        possible to be. <character target="petunia vernon">The Dursleys</character> shuddered to
+        think what the neighbors would say if <character target="lily james">the Potters</character>
+        arrived in the street. <character target="petunia vernon">The Dursleys</character> knew that
+            <character target="lily james">the Potters</character> had <character target="harry">a
+            small son</character>, too, but they had never even seen him. <character target="harry"
+            >This boy</character> was another good reason for keeping <character target="lily james"
+            >the Potters</character> away; they didn't want <character target="dudley"
+            >Dudley</character> mixing with <character target="harry"><description target="harry"
+                tone="negative">a child like that.</description></character></paragraph>
+</excerpt>

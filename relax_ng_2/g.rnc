@@ -1,0 +1,9 @@
+start = poem
+poem = element poem { title?, author?, body? }
+title = element title { text }
+author = element author { text }
+body = element body { paragraph+ }
+paragraph = element stanza { line+ }
+line = element line { (reference | text)* }
+reference = element reference { (type | text)* }
+type = attribute type { "Violence" | "Biblical" }

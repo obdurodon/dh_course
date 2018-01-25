@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="g.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title>&quot; The Second Coming &quot;</title>
+    <author>&lt; William Butler Yeats &gt;</author>
+    <body>
+        <stanza>
+            <line>Turning and turning in the widening gyre</line>
+            <line>The falcon cannot hear the falconer;</line>
+            <line>Things fall apart; the centre cannot hold; </line>
+            <line>Mere <reference type="Violence">anarchy</reference> is loosed upon the
+                world,</line>
+            <line>The <reference type="Violence">blood-dimmed tide is loosed</reference>, and
+                everywhere</line>
+            <line> The ceremony of innocence <reference type="Violence">is drowned</reference>; </line>
+            <line> The best lack all conviction, while the worst </line>
+            <line>Are full of passionate intensity.</line>
+        </stanza>
+
+        <stanza>
+            <line>Surely some <reference type="Biblical">revelation</reference> is at hand; </line>
+            <line> Surely the <reference type="Biblical">Second Coming</reference> is at hand. </line>
+            <line> The <reference type="Biblical">Second Coming</reference>! Hardly are those words
+                out </line>
+            <line> When a vast image out of <reference type="Biblical">Spiritus Mundi</reference>
+            </line>
+            <line> Troubles my sight: <reference type="Biblical">somewhere in sands of the
+                    desert</reference>
+            </line>
+            <line>
+                <reference type="Biblical"/>A shape with lion body and the head of a man, </line>
+            <line>
+                <reference type="Biblical"/>A gaze blank and pitiless as the sun, </line>
+            <line> Is moving its slow thighs, while all about it </line>
+            <line> Reel shadows of the indignant desert birds. </line>
+            <line>
+                <reference type="Violence">The darkness drops again</reference>; but now I know </line>
+            <line> That twenty centuries of stony sleep </line>
+            <line> Were vexed to nightmare by a rocking cradle, </line>
+            <line>
+                <reference type="Biblical"/>And what rough beast, its hour come round at last, </line>
+            <line><reference type="Biblical"/>Slouches towards Bethlehem to be born?</line>
+        </stanza>
+    </body>
+</poem>
