@@ -12,7 +12,7 @@ Schema associations removed to suppress error messages while developing XSLT
         <participants>
             <candidate who="CARSON">Ben Carson;</candidate>
             <candidate who="CHRISTIE">Governor Chris Christie (NJ);</candidate>
-            <candidate who="CRUZ">TSenator Ted Cruz (TX);</candidate>
+            <candidate who="CRUZ">Senator Ted Cruz (TX);</candidate>
             <candidate who="FIORINA">Carly Fiorina;</candidate>
             <candidate who="KASICH">Governor John Kasich (OH);</candidate>
             <candidate who="PAUL">Senator Rand Paul (KY);</candidate>
