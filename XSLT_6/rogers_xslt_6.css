@@ -1,0 +1,57 @@
+.paul {
+    color: pink;
+}
+.bash {
+    color: blue;
+}
+.cruz {
+    color: orange;
+}
+.christie {
+    color: red;
+}
+.fiorina {
+    color: purple;
+}
+.kasich {
+    color: yellow;
+}
+.rubio {
+    color: green;
+}
+.trump {
+    color: lightpink;
+}
+.blitzer {
+    color: gray;
+}
+.bush {
+    color: lightgreen;
+}
+.carson {
+    color: white;;
+}
+.question {
+    text-decoration: underline;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+body {
+    background-color: #990033;
+}
+p {
+    background-color: black;
+}
+
+#eagle {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+.participants {
+    background-color: black;
+    color: white;
+}
