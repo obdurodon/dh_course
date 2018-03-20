@@ -52,13 +52,13 @@
             select="count(preceding::speech[@speaker eq current()/@speaker])"/>
         <p class="{lower-case(@speaker)}" id="{concat(@speaker, $count)}">
             <xsl:next-match>
-                <xsl:with-param name="count" select="$count"/>
+                <xsl:with-param name="count" as="xs:integer" select="$count"/>
             </xsl:next-match>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
     <xsl:template match="speech[following::speech[@speaker eq current()/@speaker]]">
-        <xsl:param name="count" required="yes"/>
+        <xsl:param name="count" as="xs:integer" required="yes"/>
         <!-- 
             Speeches that aren't the last by their speaker have an <a> with an @href
             This has higher priority than the template below because of the predicate
