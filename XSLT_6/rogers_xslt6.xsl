@@ -53,7 +53,7 @@
                 </p>
             </xsl:when>
             <xsl:otherwise>
-                <p class="{lower-case(@speaker)}" id="{concat(@speaker, $count)}" class="{lower-case(@speaker)}>
+                <p class="{lower-case(@speaker)}" id="{concat(@speaker, $count)}">
                     <strong>
                         <xsl:apply-templates select="@speaker"/>
                         <xsl:text>:</xsl:text>
