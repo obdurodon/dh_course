@@ -1,9 +1,9 @@
 start = element poem { title , body , author }
 title = element title { text }
 author = element author { text }
-body = element body { stanza }
+body = element body { stanza* }
 stanza = element stanza { mixed { character | place | instrument } * }
 character = element character { text }
 instrument = element instrument { text }
-place = element place { mixed { type }
+place = element place { mixed { type }}
 type = attribute type { "city" | "street" | "castle" | "square" }
