@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DouglasLetters lang="en">
+    <Title>Letters from Oscar Wilde to Lord Alfred Douglas</Title>
+
+    <letter id="1">
+        <header>Letter 1</header>
+        <origination>The following letter was introduced in Wilde's libel trial by sir Edward Clark,
+            Wilde's attorney. Although the letter lends support to the defense case, Clark chose to
+            introduce the letter to prevent the defense from introducing the letter in a more
+            dramatic fashion during its case.</origination>
+        <date>January 1893</date>, <place>Babbacombe Cliff</place>
+        <recipient>My Own Boy,</recipient>
+        <p>Your sonnet is quite lovely, and it is a marvel that those red-roseleaf lips of yours
+            should be made no less for the madness of music and song than for the madness of
+            kissing. Your slim gilt soul walks between passion and poetry. I know Hyacinthus, whom
+            Apollo loved so madly, was you in Greek days. Why are you alone in London, and when do
+            you go to Salisbury? Do go there to cool your hands in the grey twilight of Gothic
+            things, and come here whenever you like. It is a lovely place and lacks only you; but go
+            to Salisbury first.</p>
+        <closing>Always, with undying love, Yours,</closing>
+        <signature>Oscar</signature>
+    </letter>
+
+    <letter id="2">
+        <header>Letter 2</header>
+        <origination>The following letter was read by defense attorney Edward Carson during his
+            cross-examination of Oscar Wilde in his libel trial. Carson had asked Wilde to read the
+            letter, but he declined.</origination>
+        <date>March 1893</date>, <place>Savoy Hotel</place>
+        <recipient>Dearest of All Boys,</recipient>
+        <p>Your letter was delightful, red and yellow wine to me; but I am sad and out of sorts.
+            Bosie, you must not make scenes with me. They kill me, they wreck the loveliness of
+            life. I cannot see you, so Greek and gracious, distorted with passion. I cannot listen
+            to your curved lips saying hideous things to me. I would sooner be blackmailed by every
+            renter ["renter"was a slang term for male prostitutes] in London than to have you
+            bitter, unjust, hating.You are the divine thing I want, the thing of grace and beauty;
+            but I don't know how to do it.Shall I come to Salisbury? My bill here is 49 pounds for a
+            week. I have also got a new sitting-room over the Thames. Why are you not here, my dear,
+            my wonderful boy? I fear I must leave; no money, no credit, and a heart of lead.</p>
+        <closing>Your own,</closing>
+        <signature>Oscar</signature>
+    </letter>
+
+    <letter id="3">
+        <header>Letter 3</header>
+        <origination>The following letter was written shortly after Wilde's release from
+            prison:</origination>
+        <place>Rouen</place>, <date>August 1897</date>
+        <recipient>My own Darling Boy,</recipient>
+        <p>I got your telegram half an hour ago, and just send a line to say that I feel that my
+            only hope of again doing beautiful work in art is being with you. It was not so in the
+            old days, but now it is different, and you can really recreate in me that energy and
+            sense of joyous power on which art depends. Everyone is furious with me for going back
+            to you, but they don't understand us. I feel that it is only with you that I can do
+            anything at all. Do remake my ruined life for me, and then our friendship and love will
+            have a different meaning to the world. I wish that when we met at Rouen we had not
+            parted at all. There are such wide abysses now of space and land between us. But we love
+            each other.</p>
+        <closing>Goodnight, dear. Ever yours,</closing>
+        <signature>Oscar</signature>
+    </letter>
+
+</DouglasLetters>
