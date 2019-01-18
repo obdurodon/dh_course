@@ -1,0 +1,16 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = poem
+poem = element poem { metadata, description, stanza+ }
+metadata = attribute author { text }, attribute date { text}
+
+description = element description { title, author }
+title = element title { text }
+author = element author { text }
+
+stanza = element stanza { lead, negation }
+lead = element lead { type?, text, accented*, text }
+negation = element negation { type?, text, accented*, text }
+type = attribute type { text }
+
+accented = element accented { text }

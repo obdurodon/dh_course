@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="engel_relax-ng-1_1-17-19.rnc" type="application/relax-ng-compact-syntax"?>
+<poem author="Clint Smith" date="Autumn/Winter 2018">
+    <description>
+        <title>This Year Was the First Year I Could Not Remember Your Voice</title>
+        <author>by Clint Smith</author>
+    </description>
+
+    <stanza>
+        <lead type="imagination">I tried to imagine the phrases only you would say</lead>
+        <negation type="bad">but could only hear them falling from someone else’s lips</negation>
+    </stanza>
+
+
+    <stanza><lead type="imagination">I tried to imagine the stories you would tell me</lead>
+        <negation type="bad">but your laugh shattered under the weight of this
+        grief</negation></stanza>
+
+
+    <stanza>
+        <lead type="memory">I remember the words you would say</lead>
+        <negation type="bad">but I don’t remember the voice that said them</negation>
+    </stanza>
+
+
+    <stanza>
+        <lead type="memory">I remember you would call me sugar</lead>
+        <negation type="bad">but I can’t remember exactly how the <accented>r</accented> melted when
+            it met the air</negation>
+    </stanza>
+
+
+    <stanza>
+        <lead type="memory">I remember how you’d tell me <accented>baby the lord is always
+                watchin</accented></lead>
+        <negation type="bad">but I am forgetting how your accent cocooned the warning around my
+            ears</negation>
+    </stanza>
+
+
+    <stanza>
+        <lead>It’s strange how I cannot remember your voice </lead>
+        <negation type="good">but if I heard it I would immediately know it was you</negation>
+    </stanza>
+</poem>
