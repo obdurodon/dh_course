@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Source - http://shakespeare.mit.edu/hamlet/full.html -->
 <!-- Most of the words bearing the foreignlang tag are more like borrowed words. Not sure if I should change that or not.-->
-<?xml-model href="borbonus_01-18_rnc-01.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="submission-02.rnc" type="application/relax-ng-compact-syntax"?>
 <Act id = "4" lang = "en" dialect = "Early Modern English">
     <actheader>ACT IV</actheader>
     <scene id = "1">

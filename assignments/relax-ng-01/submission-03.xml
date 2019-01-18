@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="engel_relax-ng-1_1-17-19.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="submission-03.rnc" type="application/relax-ng-compact-syntax"?>
 <poem author="Clint Smith" date="Autumn/Winter 2018">
     <description>
         <title>This Year Was the First Year I Could Not Remember Your Voice</title>

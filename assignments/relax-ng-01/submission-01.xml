@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNC%20files/chekhovLetter.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="submission-01.rnc" type="application/relax-ng-compact-syntax"?>
 <Chekhov1888Letter><date>(No date), 1888.</date>
 <body>
 <para1>
