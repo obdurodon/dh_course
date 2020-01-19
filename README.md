@@ -1,3 +1,4 @@
 # dh_course
-Digital Humanities course site
+
+Digital Humanities course site  
 Discussion board and troubleshooting
