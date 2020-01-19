@@ -1,6 +1,0 @@
-start = Chekhov1888Letter
-Chekhov1888Letter = element Chekhov1888Letter {date, body}
-date = element date {text}
-body = element body {para1, para2}
-para1 = element para1 {text}
-para2 = element para2 {text}
