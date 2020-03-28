@@ -14,7 +14,7 @@ These teaching materials are based on <https://ebeshero.github.io/UpTransformati
 
 ### Getting started
 
-* Install eXist-db by following the instructions at <https://ebeshero.github.io/UpTransformation/xquery_setup.html>. (If you need to install Java, use the most recent version, at the top of the Java link on our instruction page.)
+* Install eXist-db from <https://exist-db.org>. If eXist-db prompts you to install Java, follow the instructions; if it doesn’t, you probably already have Java installed.
 * Launch eXist-db, explore dashboard and launcher
 * Package manager, install Shakespeare project (TEI Publisher version)
 * Launch Shakespeare from launcher
