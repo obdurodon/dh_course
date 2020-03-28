@@ -107,9 +107,9 @@ doc('/db/apps/shakespeare-pm/data/F-ham.xml')//tei:sp[@who eq '#F-ham-ham']
     ]
 ```
 
-### Activities within a collection (all Shakespeare plays)
+## Activities within a collection (all Shakespeare plays)
 
-#### All files in the *data* subcollection of the Shakespeare app
+### All files in the *data* subcollection of the Shakespeare app
 
 One of these files is not a play; we’ll ignore that for now.
 
@@ -118,7 +118,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 collection('/db/apps/shakespeare-pm/data')
 ```
 
-#### Number of plays
+### Number of plays
 
 Builds on the preceding
 
@@ -127,14 +127,14 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 collection('/db/apps/shakespeare-pm/data') => count()
 ```
 
-#### All speeches in each play
+### All speeches in each play
 
 ```xquery
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 collection('/db/apps/shakespeare-pm/data')/descendant::tei:sp
 ```
 
-#### Count of speeches in each play (builds on the preceding)
+### Count of speeches in each play (builds on the preceding)
 
 ```xquery
 declare namespace tei="http://www.tei-c.org/ns/1.0";
