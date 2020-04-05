@@ -282,13 +282,14 @@ FLWOR expressions supplement XPath. XQuery does not require FLWOR; if you can re
 #### `for`
 
 ```xquery
+declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare variable $plays as document-node()+ := 
 	collection('/db/apps/shakespeare-pm/data');
 for $play as document-node() at $pos in $plays
-return $play//tei:text/tei:div/tei:div => count()
+return $play//tei:body/tei:div/tei:div => count()
 ```
 
-Uh oh ... a play with eight acts?! Stay tuned …
+Uh oh ... a play with sit acts? One with eight acts?! One with none? Stay tuned …
 
 Syntax:
 
