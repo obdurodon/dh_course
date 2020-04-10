@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+    <state name="Alabama" acro="AL" elec="9">
+        <candidate party="Democrat">793620</candidate>
+        <candidate party="Republican">1252453</candidate>
+        <candidate party="Libertarian">12283</candidate>
+        <candidate party="Green">3382</candidate>
+    </state>
+    <state name="Alaska" acro="AK" elec="3">
+        <candidate party="Democrat">102138</candidate>
+        <candidate party="Republican">136848</candidate>
+        <candidate party="Libertarian">6131</candidate>
+        <candidate party="Green">2366</candidate>
+    </state>
+    <state name="Arizona" acro="AZ" elec="11">
+        <candidate party="Democrat">948507</candidate>
+        <candidate party="Republican">1164520</candidate>
+        <candidate party="Libertarian">29292</candidate>
+        <candidate party="Green">7226</candidate>
+    </state>
+    <state name="Arkansas" acro="AR" elec="6">
+        <candidate party="Democrat">391978</candidate>
+        <candidate party="Republican">644131</candidate>
+        <candidate party="Libertarian">16179</candidate>
+        <candidate party="Green">9258</candidate>
+    </state>
+    <state name="California" acro="CA" elec="55">
+        <candidate party="Democrat">6414573</candidate>
+        <candidate party="Republican">4136120</candidate>
+        <candidate party="Libertarian">115068</candidate>
+        <candidate party="Green">68301</candidate>
+    </state>
+    <state name="Colorado" acro="CO" elec="7">
+        <candidate party="Democrat">1264007</candidate>
+        <candidate party="Republican">1143306</candidate>
+        <candidate party="Libertarian">33311</candidate>
+        <candidate party="Green">7092</candidate>
+    </state>
+    <state name="Connecticut" acro="CT" elec="9">
+        <candidate party="Democrat">912531</candidate>
+        <candidate party="Republican">631342</candidate>
+        <candidate party="Libertarian">12628</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Delaware" acro="DE" elec="3">
+        <candidate party="Democrat">242584</candidate>
+        <candidate party="Republican">165484</candidate>
+        <candidate party="Libertarian">3882</candidate>
+        <candidate party="Green">1940</candidate>
+    </state>
+    <state name="District of Columbia" acro="DC" elec="3">
+        <candidate party="Democrat">222332</candidate>
+        <candidate party="Republican">17337</candidate>
+        <candidate party="Libertarian">1634</candidate>
+        <candidate party="Green">2045</candidate>
+    </state>
+    <state name="Florida" acro="FL" elec="29">
+        <candidate party="Democrat">4235270</candidate>
+        <candidate party="Republican">4162081</candidate>
+        <candidate party="Libertarian">44681</candidate>
+        <candidate party="Green">8933</candidate>
+    </state>
+    <state name="Georgia" acro="GA" elec="16">
+        <candidate party="Democrat">1773827</candidate>
+        <candidate party="Republican">2078688</candidate>
+        <candidate party="Libertarian">45324</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Hawaii" acro="HI" elec="4">
+        <candidate party="Democrat">306545</candidate>
+        <candidate party="Republican">120975</candidate>
+        <candidate party="Libertarian">3838</candidate>
+        <candidate party="Green">3181</candidate>
+    </state>
+    <state name="Idaho" acro="ID" elec="4">
+        <candidate party="Democrat">212699</candidate>
+        <candidate party="Republican">420390</candidate>
+        <candidate party="Libertarian">9454</candidate>
+        <candidate party="Green">4401</candidate>
+    </state>
+    <state name="Illinois" acro="IL" elec="20">
+        <candidate party="Democrat">2916811</candidate>
+        <candidate party="Republican">2090116</candidate>
+        <candidate party="Libertarian">54798</candidate>
+        <candidate party="Green">29336</candidate>
+    </state>
+    <state name="Indiana" acro="IN" elec="11">
+        <candidate party="Democrat">1151893</candidate>
+        <candidate party="Republican">1414883</candidate>
+        <candidate party="Libertarian">50041</candidate>
+        <candidate party="Green">248</candidate>
+    </state>
+    <state name="Iowa" acro="IA" elec="6">
+        <candidate party="Democrat">816429</candidate>
+        <candidate party="Republican">727928</candidate>
+        <candidate party="Libertarian">12825</candidate>
+        <candidate party="Green">3739</candidate>
+    </state>
+    <state name="Kansas" acro="KS" elec="6">
+        <candidate party="Democrat">427918</candidate>
+        <candidate party="Republican">678719</candidate>
+        <candidate party="Libertarian">19870</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Kentucky" acro="KY" elec="8">
+        <candidate party="Democrat">679357</candidate>
+        <candidate party="Republican">1087136</candidate>
+        <candidate party="Libertarian">17062</candidate>
+        <candidate party="Green">6337</candidate>
+    </state>
+    <state name="Louisiana" acro="LA" elec="8">
+        <candidate party="Democrat">809141</candidate>
+        <candidate party="Republican">1152262</candidate>
+        <candidate party="Libertarian">18157</candidate>
+        <candidate party="Green">6978</candidate>
+    </state>
+    <state name="Maine" acro="ME" elec="4">
+        <candidate party="Democrat">397754</candidate>
+        <candidate party="Republican">290437</candidate>
+        <candidate party="Libertarian">13446</candidate>
+        <candidate party="Green">9101</candidate>
+    </state>
+    <state name="Maryland" acro="MD" elec="10">
+        <candidate party="Democrat">1600462</candidate>
+        <candidate party="Republican">949204</candidate>
+        <candidate party="Libertarian">29079</candidate>
+        <candidate party="Green">16362</candidate>
+    </state>
+    <state name="Massachusetts" acro="MA" elec="11">
+        <candidate party="Democrat">1900575</candidate>
+        <candidate party="Republican">1177370</candidate>
+        <candidate party="Libertarian">30526</candidate>
+        <candidate party="Green">19663</candidate>
+    </state>
+    <state name="Michigan" acro="MI" elec="16">
+        <candidate party="Democrat">2560016</candidate>
+        <candidate party="Republican">2111141</candidate>
+        <candidate party="Libertarian">0</candidate>
+        <candidate party="Green">21831</candidate>
+    </state>
+    <state name="Minnesota" acro="MN" elec="10">
+        <candidate party="Democrat">1546021</candidate>
+        <candidate party="Republican">1320048</candidate>
+        <candidate party="Libertarian">35095</candidate>
+        <candidate party="Green">35095</candidate>
+    </state>
+    <state name="Mississippi" acro="MS" elec="6">
+        <candidate party="Democrat">528260</candidate>
+        <candidate party="Republican">674302</candidate>
+        <candidate party="Libertarian">6408</candidate>
+        <candidate party="Green">1534</candidate>
+    </state>
+    <state name="Missouri" acro="MO" elec="10">
+        <candidate party="Democrat">1215043</candidate>
+        <candidate party="Republican">1470976</candidate>
+        <candidate party="Libertarian">43030</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Montana" acro="MT" elec="3">
+        <candidate party="Democrat">201830</candidate>
+        <candidate party="Republican">267971</candidate>
+        <candidate party="Libertarian">14232</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Nebraska" acro="NE" elec="5">
+        <candidate party="Democrat">293421</candidate>
+        <candidate party="Republican">468265</candidate>
+        <candidate party="Libertarian">10796</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Nevada" acro="NV" elec="6">
+        <candidate party="Democrat">529005</candidate>
+        <candidate party="Republican">462607</candidate>
+        <candidate party="Libertarian">10908</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="New Hampshire" acro="NH" elec="4">
+        <candidate party="Democrat">368529</candidate>
+        <candidate party="Republican">327870</candidate>
+        <candidate party="Libertarian">8319</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="New Jersey" acro="NJ" elec="14">
+        <candidate party="Democrat">1960744</candidate>
+        <candidate party="Republican">1383233</candidate>
+        <candidate party="Libertarian">19483</candidate>
+        <candidate party="Green">9036</candidate>
+    </state>
+    <state name="New Mexico" acro="NM" elec="5">
+        <candidate party="Democrat">410254</candidate>
+        <candidate party="Republican">333005</candidate>
+        <candidate party="Libertarian">27473</candidate>
+        <candidate party="Green">2654</candidate>
+    </state>
+    <state name="New York" acro="NY" elec="29">
+        <candidate party="Democrat">3875826</candidate>
+        <candidate party="Republican">2226637</candidate>
+        <candidate party="Libertarian">42452</candidate>
+        <candidate party="Green">35595</candidate>
+    </state>
+    <state name="North Carolina" acro="NC" elec="15">
+        <candidate party="Democrat">2178388</candidate>
+        <candidate party="Republican">2275853</candidate>
+        <candidate party="Libertarian">44798</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="North Dakota" acro="ND" elec="3">
+        <candidate party="Democrat">124932</candidate>
+        <candidate party="Republican">188223</candidate>
+        <candidate party="Libertarian">5326</candidate>
+        <candidate party="Green">1362</candidate>
+    </state>
+    <state name="Ohio" acro="OH" elec="18">
+        <candidate party="Democrat">2697290</candidate>
+        <candidate party="Republican">2593779</candidate>
+        <candidate party="Libertarian">47287</candidate>
+        <candidate party="Green">17860</candidate>
+    </state>
+    <state name="Oklahoma" acro="OK" elec="7">
+        <candidate party="Democrat">443547</candidate>
+        <candidate party="Republican">891325</candidate>
+        <candidate party="Libertarian">0</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Oregon" acro="OR" elec="7">
+        <candidate party="Democrat">938307</candidate>
+        <candidate party="Republican">729573</candidate>
+        <candidate party="Libertarian">22965</candidate>
+        <candidate party="Green">18679</candidate>
+    </state>
+    <state name="Pennsylvania" acro="PA" elec="20">
+        <candidate party="Democrat">2925786</candidate>
+        <candidate party="Republican">2641387</candidate>
+        <candidate party="Libertarian">49094</candidate>
+        <candidate party="Green">20849</candidate>
+    </state>
+    <state name="Rhode Island" acro="RI" elec="4">
+        <candidate party="Democrat">279244</candidate>
+        <candidate party="Republican">157088</candidate>
+        <candidate party="Libertarian">4380</candidate>
+        <candidate party="Green">2416</candidate>
+    </state>
+    <state name="South Carolina" acro="SC" elec="9">
+        <candidate party="Democrat">865281</candidate>
+        <candidate party="Republican">1071106</candidate>
+        <candidate party="Libertarian">16316</candidate>
+        <candidate party="Green">5441</candidate>
+    </state>
+    <state name="South Dakota" acro="SD" elec="3">
+        <candidate party="Democrat">144997</candidate>
+        <candidate party="Republican">210650</candidate>
+        <candidate party="Libertarian">5795</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Tennessee" acro="TN" elec="11">
+        <candidate party="Democrat">959054</candidate>
+        <candidate party="Republican">1459965</candidate>
+        <candidate party="Libertarian">18569</candidate>
+        <candidate party="Green">6498</candidate>
+    </state>
+    <state name="Texas" acro="TX" elec="38">
+        <candidate party="Democrat">3294482</candidate>
+        <candidate party="Republican">4555857</candidate>
+        <candidate party="Libertarian">88111</candidate>
+        <candidate party="Green">24450</candidate>
+    </state>
+    <state name="Utah" acro="UT" elec="6">
+        <candidate party="Democrat">229463</candidate>
+        <candidate party="Republican">671747</candidate>
+        <candidate party="Libertarian">11071</candidate>
+        <candidate party="Green">3378</candidate>
+    </state>
+    <state name="Vermont" acro="VT" elec="3">
+        <candidate party="Democrat">199239</candidate>
+        <candidate party="Republican">92698</candidate>
+        <candidate party="Libertarian">3487</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+    <state name="Virginia" acro="VA" elec="13">
+        <candidate party="Democrat">1971590</candidate>
+        <candidate party="Republican">1822332</candidate>
+        <candidate party="Libertarian">31208</candidate>
+        <candidate party="Green">8626</candidate>
+    </state>
+    <state name="Washington" acro="WA" elec="12">
+        <candidate party="Democrat">1648715</candidate>
+        <candidate party="Republican">1230033</candidate>
+        <candidate party="Libertarian">38731</candidate>
+        <candidate party="Green">18871</candidate>
+    </state>
+    <state name="West Virginia" acro="WV" elec="5">
+        <candidate party="Democrat">234925</candidate>
+        <candidate party="Republican">412406</candidate>
+        <candidate party="Libertarian">6204</candidate>
+        <candidate party="Green">4341</candidate>
+    </state>
+    <state name="Wisconsin" acro="WI" elec="10">
+        <candidate party="Democrat">1613950</candidate>
+        <candidate party="Republican">1408745</candidate>
+        <candidate party="Libertarian">20278</candidate>
+        <candidate party="Green">7598</candidate>
+    </state>
+    <state name="Wyoming" acro="WY" elec="3">
+        <candidate party="Democrat">69286</candidate>
+        <candidate party="Republican">170962</candidate>
+        <candidate party="Libertarian">5326</candidate>
+        <candidate party="Green">0</candidate>
+    </state>
+</results>

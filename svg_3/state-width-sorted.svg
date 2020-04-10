@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="1040">
+   <g transform="translate(120, 870)">
+      <line x1="0" y1="-80" x2="-10" y2="-80" stroke="black"/>
+      <line x1="0" y1="-80" x2="2541" y2="-80" stroke="gray"/>
+      <text x="-20" y="-80" text-anchor="end" alignment-baseline="central">10</text>
+      <line x1="0" y1="-160" x2="-10" y2="-160" stroke="black"/>
+      <line x1="0" y1="-160" x2="2541" y2="-160" stroke="gray"/>
+      <text x="-20" y="-160" text-anchor="end" alignment-baseline="central">20</text>
+      <line x1="0" y1="-240" x2="-10" y2="-240" stroke="black"/>
+      <line x1="0" y1="-240" x2="2541" y2="-240" stroke="gray"/>
+      <text x="-20" y="-240" text-anchor="end" alignment-baseline="central">30</text>
+      <line x1="0" y1="-320" x2="-10" y2="-320" stroke="black"/>
+      <line x1="0" y1="-320" x2="2541" y2="-320" stroke="gray"/>
+      <text x="-20" y="-320" text-anchor="end" alignment-baseline="central">40</text>
+      <line x1="0" y1="-400" x2="-10" y2="-400" stroke="black"/>
+      <line x1="0" y1="-400" x2="2541" y2="-400" stroke="gray"/>
+      <text x="-20" y="-400" text-anchor="end" alignment-baseline="central">50</text>
+      <line x1="0" y1="-480" x2="-10" y2="-480" stroke="black"/>
+      <line x1="0" y1="-480" x2="2541" y2="-480" stroke="gray"/>
+      <text x="-20" y="-480" text-anchor="end" alignment-baseline="central">60</text>
+      <line x1="0" y1="-560" x2="-10" y2="-560" stroke="black"/>
+      <line x1="0" y1="-560" x2="2541" y2="-560" stroke="gray"/>
+      <text x="-20" y="-560" text-anchor="end" alignment-baseline="central">70</text>
+      <line x1="0" y1="-640" x2="-10" y2="-640" stroke="black"/>
+      <line x1="0" y1="-640" x2="2541" y2="-640" stroke="gray"/>
+      <text x="-20" y="-640" text-anchor="end" alignment-baseline="central">80</text>
+      <line x1="0" y1="-720" x2="-10" y2="-720" stroke="black"/>
+      <line x1="0" y1="-720" x2="2541" y2="-720" stroke="gray"/>
+      <text x="-20" y="-720" text-anchor="end" alignment-baseline="central">90</text>
+      <line x1="0" y1="-800" x2="-10" y2="-800" stroke="black"/>
+      <line x1="0" y1="-800" x2="2541" y2="-800" stroke="gray"/>
+      <text x="-20" y="-800" text-anchor="end" alignment-baseline="central">100</text>
+      <rect x="9"
+            y="-730.9104656705623"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="730.9104656705623"/>
+      <text x="13.5" y="30" text-anchor="middle" font-size="120%">DC</text>
+      <text x="13.5" y="50" text-anchor="middle">3</text>
+      <text x="13.5" y="-740.9104656705623" text-anchor="middle">91</text>
+      <rect x="36"
+            y="-564.359010353501"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="12"
+            height="564.359010353501"/>
+      <text x="42" y="30" text-anchor="middle" font-size="120%">HI</text>
+      <text x="42" y="50" text-anchor="middle">4</text>
+      <text x="42" y="-574.359010353501" text-anchor="middle">71</text>
+      <rect x="66"
+            y="-539.5336871750433"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="539.5336871750433"/>
+      <text x="70.5" y="30" text-anchor="middle" font-size="120%">VT</text>
+      <text x="70.5" y="50" text-anchor="middle">3</text>
+      <text x="70.5" y="-549.5336871750433" text-anchor="middle">67</text>
+      <rect x="93"
+            y="-504.13244028813347"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="12"
+            height="504.13244028813347"/>
+      <text x="99" y="30" text-anchor="middle" font-size="120%">RI</text>
+      <text x="99" y="50" text-anchor="middle">4</text>
+      <text x="99" y="-514.1324402881335" text-anchor="middle">63</text>
+      <rect x="123"
+            y="-501.68364746598587"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="87"
+            height="501.68364746598587"/>
+      <text x="166.5" y="30" text-anchor="middle" font-size="120%">NY</text>
+      <text x="166.5" y="50" text-anchor="middle">29</text>
+      <text x="166.5" y="-511.68364746598587" text-anchor="middle">63</text>
+      <rect x="228"
+            y="-493.3783462493069"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="30"
+            height="493.3783462493069"/>
+      <text x="243" y="30" text-anchor="middle" font-size="120%">MD</text>
+      <text x="243" y="50" text-anchor="middle">10</text>
+      <text x="243" y="-503.3783462493069" text-anchor="middle">62</text>
+      <rect x="276"
+            y="-486.0597404075401"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="33"
+            height="486.0597404075401"/>
+      <text x="292.5" y="30" text-anchor="middle" font-size="120%">MA</text>
+      <text x="292.5" y="50" text-anchor="middle">11</text>
+      <text x="292.5" y="-496.0597404075401" text-anchor="middle">61</text>
+      <rect x="327"
+            y="-478.0723644040811"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="165"
+            height="478.0723644040811"/>
+      <text x="409.5" y="30" text-anchor="middle" font-size="120%">CA</text>
+      <text x="409.5" y="50" text-anchor="middle">55</text>
+      <text x="409.5" y="-488.0723644040811" text-anchor="middle">60</text>
+      <rect x="510"
+            y="-469.01659555631505"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="27"
+            height="469.01659555631505"/>
+      <text x="523.5" y="30" text-anchor="middle" font-size="120%">CT</text>
+      <text x="523.5" y="50" text-anchor="middle">9</text>
+      <text x="523.5" y="-479.01659555631505" text-anchor="middle">59</text>
+      <rect x="555"
+            y="-468.88593587668225"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="468.88593587668225"/>
+      <text x="559.5" y="30" text-anchor="middle" font-size="120%">DE</text>
+      <text x="559.5" y="50" text-anchor="middle">3</text>
+      <text x="559.5" y="-478.88593587668225" text-anchor="middle">59</text>
+      <rect x="582"
+            y="-465.1140283042589"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="42"
+            height="465.1140283042589"/>
+      <text x="603" y="30" text-anchor="middle" font-size="120%">NJ</text>
+      <text x="603" y="50" text-anchor="middle">14</text>
+      <text x="603" y="-475.1140283042589" text-anchor="middle">58</text>
+      <rect x="642"
+            y="-458.3423376777454"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="60"
+            height="458.3423376777454"/>
+      <text x="672" y="30" text-anchor="middle" font-size="120%">IL</text>
+      <text x="672" y="50" text-anchor="middle">20</text>
+      <text x="672" y="-468.3423376777454" text-anchor="middle">57</text>
+      <rect x="720"
+            y="-449.187596846425"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="36"
+            height="449.187596846425"/>
+      <text x="738" y="30" text-anchor="middle" font-size="120%">WA</text>
+      <text x="738" y="50" text-anchor="middle">12</text>
+      <text x="738" y="-459.187596846425" text-anchor="middle">56</text>
+      <rect x="774"
+            y="-447.7081568735596"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="12"
+            height="447.7081568735596"/>
+      <text x="780" y="30" text-anchor="middle" font-size="120%">ME</text>
+      <text x="780" y="50" text-anchor="middle">4</text>
+      <text x="780" y="-457.7081568735596" text-anchor="middle">56</text>
+      <rect x="804"
+            y="-439.09626305334115"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="21"
+            height="439.09626305334115"/>
+      <text x="814.5" y="30" text-anchor="middle" font-size="120%">OR</text>
+      <text x="814.5" y="50" text-anchor="middle">7</text>
+      <text x="814.5" y="-449.09626305334115" text-anchor="middle">55</text>
+      <rect x="843"
+            y="-436.398473637691"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="48"
+            height="436.398473637691"/>
+      <text x="867" y="30" text-anchor="middle" font-size="120%">MI</text>
+      <text x="867" y="50" text-anchor="middle">16</text>
+      <text x="867" y="-446.398473637691" text-anchor="middle">55</text>
+      <rect x="909"
+            y="-424.3717884730264"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="15"
+            height="424.3717884730264"/>
+      <text x="916.5" y="30" text-anchor="middle" font-size="120%">NM</text>
+      <text x="916.5" y="50" text-anchor="middle">5</text>
+      <text x="916.5" y="-434.3717884730264" text-anchor="middle">53</text>
+      <rect x="942"
+            y="-423.25190923273055"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="30"
+            height="423.25190923273055"/>
+      <text x="957" y="30" text-anchor="middle" font-size="120%">WI</text>
+      <text x="957" y="50" text-anchor="middle">10</text>
+      <text x="957" y="-433.25190923273055" text-anchor="middle">53</text>
+      <rect x="990"
+            y="-422.14020667916856"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="18"
+            height="422.14020667916856"/>
+      <text x="999" y="30" text-anchor="middle" font-size="120%">NV</text>
+      <text x="999" y="50" text-anchor="middle">6</text>
+      <text x="999" y="-432.14020667916856" text-anchor="middle">53</text>
+      <rect x="1026"
+            y="-421.22196986028825"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="30"
+            height="421.22196986028825"/>
+      <text x="1041" y="30" text-anchor="middle" font-size="120%">MN</text>
+      <text x="1041" y="50" text-anchor="middle">10</text>
+      <text x="1041" y="-431.22196986028825" text-anchor="middle">53</text>
+      <rect x="1074"
+            y="-418.43450116950186"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="18"
+            height="418.43450116950186"/>
+      <text x="1083" y="30" text-anchor="middle" font-size="120%">IA</text>
+      <text x="1083" y="50" text-anchor="middle">6</text>
+      <text x="1083" y="-428.43450116950186" text-anchor="middle">52</text>
+      <rect x="1110"
+            y="-418.35627868168547"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="12"
+            height="418.35627868168547"/>
+      <text x="1116" y="30" text-anchor="middle" font-size="120%">NH</text>
+      <text x="1116" y="50" text-anchor="middle">4</text>
+      <text x="1116" y="-428.35627868168547" text-anchor="middle">52</text>
+      <rect x="1140"
+            y="-415.21742678348295"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="60"
+            height="415.21742678348295"/>
+      <text x="1170" y="30" text-anchor="middle" font-size="120%">PA</text>
+      <text x="1170" y="50" text-anchor="middle">20</text>
+      <text x="1170" y="-425.21742678348295" text-anchor="middle">52</text>
+      <rect x="1218"
+            y="-413.1221105716513"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="21"
+            height="413.1221105716513"/>
+      <text x="1228.5" y="30" text-anchor="middle" font-size="120%">CO</text>
+      <text x="1228.5" y="50" text-anchor="middle">7</text>
+      <text x="1228.5" y="-423.1221105716513" text-anchor="middle">52</text>
+      <rect x="1257"
+            y="-411.4168976846726"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="39"
+            height="411.4168976846726"/>
+      <text x="1276.5" y="30" text-anchor="middle" font-size="120%">VA</text>
+      <text x="1276.5" y="50" text-anchor="middle">13</text>
+      <text x="1276.5" y="-421.4168976846726" text-anchor="middle">51</text>
+      <rect x="1314"
+            y="-402.86500768452953"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="54"
+            height="402.86500768452953"/>
+      <text x="1341" y="30" text-anchor="middle" font-size="120%">OH</text>
+      <text x="1341" y="50" text-anchor="middle">18</text>
+      <text x="1341" y="-412.86500768452953" text-anchor="middle">50</text>
+      <rect x="1386"
+            y="-400.92652140909354"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="87"
+            height="400.92652140909354"/>
+      <text x="1429.5" y="30" text-anchor="middle" font-size="120%">FL</text>
+      <text x="1429.5" y="50" text-anchor="middle">29</text>
+      <text x="1429.5" y="-410.92652140909354" text-anchor="middle">50</text>
+      <rect x="1491"
+            y="-387.35169888502855"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="45"
+            height="387.35169888502855"/>
+      <text x="1513.5" y="30" text-anchor="middle" font-size="120%">NC</text>
+      <text x="1513.5" y="50" text-anchor="middle">15</text>
+      <text x="1513.5" y="-397.35169888502855" text-anchor="middle">48</text>
+      <rect x="1554"
+            y="-364.0636773350567"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="48"
+            height="364.0636773350567"/>
+      <text x="1578" y="30" text-anchor="middle" font-size="120%">GA</text>
+      <text x="1578" y="50" text-anchor="middle">16</text>
+      <text x="1578" y="-374.0636773350567" text-anchor="middle">46</text>
+      <rect x="1620"
+            y="-356.1806328871339"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="30"
+            height="356.1806328871339"/>
+      <text x="1635" y="30" text-anchor="middle" font-size="120%">MO</text>
+      <text x="1635" y="50" text-anchor="middle">10</text>
+      <text x="1635" y="-366.1806328871339" text-anchor="middle">45</text>
+      <rect x="1668"
+            y="-353.51067132958553"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="27"
+            height="353.51067132958553"/>
+      <text x="1681.5" y="30" text-anchor="middle" font-size="120%">SC</text>
+      <text x="1681.5" y="50" text-anchor="middle">9</text>
+      <text x="1681.5" y="-363.51067132958553" text-anchor="middle">44</text>
+      <rect x="1713"
+            y="-353.0075434568711"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="33"
+            height="353.0075434568711"/>
+      <text x="1729.5" y="30" text-anchor="middle" font-size="120%">AZ</text>
+      <text x="1729.5" y="50" text-anchor="middle">11</text>
+      <text x="1729.5" y="-363.0075434568711" text-anchor="middle">44</text>
+      <rect x="1764"
+            y="-352.11750567907177"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="33"
+            height="352.11750567907177"/>
+      <text x="1780.5" y="30" text-anchor="middle" font-size="120%">IN</text>
+      <text x="1780.5" y="50" text-anchor="middle">11</text>
+      <text x="1780.5" y="-362.11750567907177" text-anchor="middle">44</text>
+      <rect x="1815"
+            y="-349.1173924249734"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="18"
+            height="349.1173924249734"/>
+      <text x="1824" y="30" text-anchor="middle" font-size="120%">MS</text>
+      <text x="1824" y="50" text-anchor="middle">6</text>
+      <text x="1824" y="-359.1173924249734" text-anchor="middle">44</text>
+      <rect x="1851"
+            y="-333.5805616559202"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="333.5805616559202"/>
+      <text x="1855.5" y="30" text-anchor="middle" font-size="120%">MT</text>
+      <text x="1855.5" y="50" text-anchor="middle">3</text>
+      <text x="1855.5" y="-343.5805616559202" text-anchor="middle">42</text>
+      <rect x="1878"
+            y="-330.98313428524784"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="114"
+            height="330.98313428524784"/>
+      <text x="1935" y="30" text-anchor="middle" font-size="120%">TX</text>
+      <text x="1935" y="50" text-anchor="middle">38</text>
+      <text x="1935" y="-340.98313428524784" text-anchor="middle">41</text>
+      <rect x="2010"
+            y="-330.16570835168477"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="330.16570835168477"/>
+      <text x="2014.5" y="30" text-anchor="middle" font-size="120%">AK</text>
+      <text x="2014.5" y="50" text-anchor="middle">3</text>
+      <text x="2014.5" y="-340.16570835168477" text-anchor="middle">41</text>
+      <rect x="2037"
+            y="-325.84969429228136"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="24"
+            height="325.84969429228136"/>
+      <text x="2049" y="30" text-anchor="middle" font-size="120%">LA</text>
+      <text x="2049" y="50" text-anchor="middle">8</text>
+      <text x="2049" y="-335.84969429228136" text-anchor="middle">41</text>
+      <rect x="2079"
+            y="-320.9300524012151"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="320.9300524012151"/>
+      <text x="2083.5" y="30" text-anchor="middle" font-size="120%">SD</text>
+      <text x="2083.5" y="50" text-anchor="middle">3</text>
+      <text x="2083.5" y="-330.9300524012151" text-anchor="middle">40</text>
+      <rect x="2106"
+            y="-313.91825001247906"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="33"
+            height="313.91825001247906"/>
+      <text x="2122.5" y="30" text-anchor="middle" font-size="120%">TN</text>
+      <text x="2122.5" y="50" text-anchor="middle">11</text>
+      <text x="2122.5" y="-323.91825001247906" text-anchor="middle">39</text>
+      <rect x="2157"
+            y="-312.4833121250113"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="312.4833121250113"/>
+      <text x="2161.5" y="30" text-anchor="middle" font-size="120%">ND</text>
+      <text x="2161.5" y="50" text-anchor="middle">3</text>
+      <text x="2161.5" y="-322.4833121250113" text-anchor="middle">39</text>
+      <rect x="2184"
+            y="-307.9421342576021"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="27"
+            height="307.9421342576021"/>
+      <text x="2197.5" y="30" text-anchor="middle" font-size="120%">AL</text>
+      <text x="2197.5" y="50" text-anchor="middle">9</text>
+      <text x="2197.5" y="-317.9421342576021" text-anchor="middle">38</text>
+      <rect x="2229"
+            y="-303.890166683385"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="18"
+            height="303.890166683385"/>
+      <text x="2238" y="30" text-anchor="middle" font-size="120%">KS</text>
+      <text x="2238" y="50" text-anchor="middle">6</text>
+      <text x="2238" y="-313.890166683385" text-anchor="middle">38</text>
+      <rect x="2265"
+            y="-303.87348831429085"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="15"
+            height="303.87348831429085"/>
+      <text x="2272.5" y="30" text-anchor="middle" font-size="120%">NE</text>
+      <text x="2272.5" y="50" text-anchor="middle">5</text>
+      <text x="2272.5" y="-313.87348831429085" text-anchor="middle">38</text>
+      <rect x="2298"
+            y="-303.6415604963875"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="24"
+            height="303.6415604963875"/>
+      <text x="2310" y="30" text-anchor="middle" font-size="120%">KY</text>
+      <text x="2310" y="50" text-anchor="middle">8</text>
+      <text x="2310" y="-313.6415604963875" text-anchor="middle">38</text>
+      <rect x="2340"
+            y="-295.4016123653615"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="18"
+            height="295.4016123653615"/>
+      <text x="2349" y="30" text-anchor="middle" font-size="120%">AR</text>
+      <text x="2349" y="50" text-anchor="middle">6</text>
+      <text x="2349" y="-305.4016123653615" text-anchor="middle">37</text>
+      <rect x="2376"
+            y="-285.6769360791395"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="15"
+            height="285.6769360791395"/>
+      <text x="2383.5" y="30" text-anchor="middle" font-size="120%">WV</text>
+      <text x="2383.5" y="50" text-anchor="middle">5</text>
+      <text x="2383.5" y="-295.6769360791395" text-anchor="middle">36</text>
+      <rect x="2409"
+            y="-265.8214420558675"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="21"
+            height="265.8214420558675"/>
+      <text x="2419.5" y="30" text-anchor="middle" font-size="120%">OK</text>
+      <text x="2419.5" y="50" text-anchor="middle">7</text>
+      <text x="2419.5" y="-275.8214420558675" text-anchor="middle">33</text>
+      <rect x="2448"
+            y="-263.01998318247024"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="12"
+            height="263.01998318247024"/>
+      <text x="2454" y="30" text-anchor="middle" font-size="120%">ID</text>
+      <text x="2454" y="50" text-anchor="middle">4</text>
+      <text x="2454" y="-273.01998318247024" text-anchor="middle">33</text>
+      <rect x="2478"
+            y="-225.71119092412064"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="9"
+            height="225.71119092412064"/>
+      <text x="2482.5" y="30" text-anchor="middle" font-size="120%">WY</text>
+      <text x="2482.5" y="50" text-anchor="middle">3</text>
+      <text x="2482.5" y="-235.71119092412064" text-anchor="middle">28</text>
+      <rect x="2505"
+            y="-200.4789992781155"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="18"
+            height="200.4789992781155"/>
+      <text x="2514" y="30" text-anchor="middle" font-size="120%">UT</text>
+      <text x="2514" y="50" text-anchor="middle">6</text>
+      <text x="2514" y="-210.4789992781155" text-anchor="middle">25</text>
+      <line x1="0"
+            y1="0"
+            x2="2541"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-840"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="1270.5" y="90" text-anchor="middle" font-size="200%">State
+                    (acronym and electoral votes)</text>
+      <text x="-70"
+            y="-420"
+            text-anchor="middle"
+            font-size="200%"
+            writing-mode="tb">Democratic percentage</text>
+   </g>
+</svg>
