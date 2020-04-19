@@ -6,7 +6,7 @@ During the spring 2020 semester the University of Pittsburgh “Computational me
 
 1. Sunday, March 29: Installation, the eXist-db interface, XPath in XQuery, XQuery declarations
 2. Sunday, April 5: FLWOR expressions
-3. Sunday, April 12: Creating XHTML output
+3. Sunday, April 19: Creating XHTML output
 
 These teaching materials are based on <https://ebeshero.github.io/UpTransformation/schedule.html> (Elisa Beshero-Bondar and David J. Birnbaum). For links to other XQuery and related resources see our <https://ebeshero.github.io/UpTransformation/References.html>,
 
@@ -411,3 +411,136 @@ return $play ! tokenize(base-uri(), '/')[last()] || ': ' || count($acts)
 ##### Version 2
 
 In this edition of Shakespeare, unlike the one we used earlier in our course, the `<div>` elements that describe the hierarchy of the play have `@type` attributes with values like "play", "act", "scene". That gives us an easier (that is, smarter) count of the acts, but there’s still something wrong. Find the play that seems not to have five acts using this method and explore.
+
+## Sunday, April 19
+
+### Review
+
+* XQuery and XPath
+	* XQuery is built on top of XPath
+	* An XPath expression is also an XQuery expression
+* Resources and collections
+	* Resources: `doc('/db/apps/shakespeare-pm/data/F-ham.xml')`
+	* Collections: `collection('/db/apps/shakespeare-pm/data')`
+* Declarations
+	* Declarations come first
+	* Declarations end in a semicolon; nothing else ends in a semicolon
+	* XQuery declaration is supplied automatically by eXide
+	* Namespace declarations
+	* Variable declarations
+* FLWOR
+	* `for`, `let`, `where`, `order by`, `return`
+	* Must begin with at least one `for` or `let`, which can then repeat in any order
+	* `where` and `order by`, which are optional, come next, in that order
+	* Must end with exactly one `return`
+
+### Returning XHTML from XQuery
+
+So far we have returned only XML (copying nodes from the original input) or plain text (atomic values). To return XHTML, we need to create it.
+
+#### Nesting XML inside XQuery and XQuery inside XML
+
+XQuery statements can be embedded inside XML (including XHTML) by wrapping it in curly braces, e.g.:
+
+```xquery
+<wrapper>{
+	for $stooge in ('Curly', 'Larry', 'Moe')
+	return "It’s a stooge! "
+}</wrapper>
+```
+
+XQuery can return XML by simply creating it, e.g.:
+
+```xquery
+for $stooge in ('Curly', 'Larry', 'Moe')
+return <stooge>Found a stooge!</stooge>
+```
+
+Combining these features makes it possible to nest XQuery and XML to any depth, e.g.:
+
+```xquery
+<ul>{
+	for $stooge in ('Curly', 'Larry', 'Moe')
+	return <li>{$stooge}</li>
+}</ul>
+```
+
+#### Task
+
+Return the titles and cast lists from the Shakespeare plays. Be aware that:
+
+1. One play does not use the same markup on its title as the others.
+2. One play does not include a cast list.
+
+eXide can serialize the output in several ways. In Real Life we would specify the serialization with a declaration, but because eXide (which is a development environment) does not read those declarations, we’ll use eXide’s own support for configuration serialization. To test serialization declarations, you need to save the XQuery inside eXist-db and access it in a web browser.
+
+The Real Life serialization options are documented at <https://en.wikibooks.org/wiki/XQuery/eXist_Crib_sheet>, but those use an eXist-db-specific syntax. eXist-db continues to support that, but new projects should use the standardized syntax, described (and contrasted with the legacy serialization methods) at <https://exist-db.org/exist/apps/doc/xquery.xml?field=all&id=D3.49#serialization>.
+
+#### How to proceed
+
+1. Housekeeping: TEI namespace declaration, `$plays` variable, make sure variable is correct.
+2. Create HTML superstructure, including HTML namespace declaration.
+3. Use FLWOR to loop over plays (*Beware:* one document is not a play). Return diagnostic result to verify that loop is working.
+4. Get title of play and return that as `<h2>`. (*Beware:* One play tags its title differently than the others.)
+5. Return a heading for Characters as an `<h3>`.
+6. Count the characters and return the count in a `<p>`. (*Beware*: One play does not include a cast list.)
+7. Create a `<ul>` for each play to hold the characters.
+8. Inside the `<ul>`, use a FLWOR to output the characters, in alphabetical order, as `<li>` elements.
+9. Use an XQuery `if` statement to avoid outputting an empty `<ul>` for *King Lear*.
+
+#### Result
+
+```xquery
+xquery version "3.1";
+declare namespace tei="http://www.tei-c.org/ns/1.0";
+declare variable $plays as document-node()+ := collection('/db/apps/shakespeare-pm/data');
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Shakespeare’s plays</title>
+    </head>
+    <body>
+        <h1>Shakespeare’s plays</h1>
+        {
+        for $play in $plays[descendant::tei:div[@type eq 'play']]
+        let $title := $play//tei:titleStmt/tei:title[@type eq 'statement' or not(@type)] ! string()
+        let $characters as xs:string* :=  $play//tei:persName[@type eq 'standard'] ! string()
+        let $character_count as xs:integer := count($characters)
+        order by $title
+        return
+            <section>
+                <h2>{$title}</h2>
+                <h3>Characters</h3> 
+                <p>There are {count($characters)} characters in the cast list.</p>
+                {if ($character_count ne 0) then
+                    <ul>{
+                        for $character in $characters
+                        order by $character
+                        return <li>{$character}</li>
+                    }</ul> else ()}
+            </section>
+        }
+    </body>
+</html>
+```
+
+#### Saving XQuery in the database
+
+##### Saving and running from eXide
+
+To save XQuery in the database, use the black *Save* button. You must be logged in as an administrator. Don’t save it inside an app (e.g., the Shakespeare TEI Publisher app); use your own space. The recommended filename extension is *.xql*, but you will also encounter *.xqm*, *.xq*, and *.xquery*.
+
+Once you’ve saved it, you can use the black *Run* button to run the script and output the results to a browser window. You may have to click on a different eXide tab and then back on the one you care about to get eXide to notice that the file has been saved. When you run it, note the URL in the browser address bar; you can also run the file by navigating to that address, without using eXide.
+
+##### The serialization declaration
+
+When you view the source of the output, notice that there is no XML declaration and no DOCTYPE declaration, both of which are expected in XHTML5 (although not by the non-XML version of HTML5). To coerce the output to be XHTML5 add the following declarations:
+
+```xquery
+declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
+declare option output:method "xhtml";
+declare option output:media-type "application/xhtml+xml";
+declare option output:omit-xml-declaration "no";
+declare option output:doctype-system "about:legacy-compat";
+```
+
+
