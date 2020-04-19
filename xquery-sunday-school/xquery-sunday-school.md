@@ -543,4 +543,6 @@ declare option output:omit-xml-declaration "no";
 declare option output:doctype-system "about:legacy-compat";
 ```
 
+If you reload the source view, you will see the XML declaration and the DOCTYPE declaration at the top of your document.
+
 
