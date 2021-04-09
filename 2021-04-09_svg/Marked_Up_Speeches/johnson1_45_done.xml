@@ -1,0 +1,147 @@
+
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<speech>
+    <meta>
+        <name>Lyndon Baines Johnson</name>
+        <den>Disciple of Christ</den>
+        <class>middle</class>
+        <state>Texas</state>
+        <party>Democratic</party>
+        <profession>Teacher</profession>
+        <term>2</term>
+        <title>Address by Lyndon Baines Johnson</title>
+        <date>January 20, 1965</date>
+    </meta>
+    <body>
+        <p>My fellow countrymen, on this occasion, <value type="religion">the oath I have taken
+                before you and before God</value> is not mine alone, but ours together. We are one
+            nation and one people. Our fate as a nation and our future as a people rest not upon one
+            citizen, but upon all citizens.</p>
+        <p>This is the majesty and the meaning of this moment.</p>
+        <p>For every generation, there is a destiny. For some, history decides. For this generation,
+            the choice must be our own.</p>
+        <p><value type="science">Even now, a rocket moves toward Mars</value>. <tone
+                rhetoric="appeal_to_future">It reminds us that the world will not be the same for
+                our children, or even for ourselves, in a short span of years. The next man to stand
+                here will look out on a scene different from our own, because ours is a time of
+                change—rapid and fantastic change bearing the secrets of nature, multiplying the
+                nations, placing in uncertain hands new weapons for mastery and destruction, shaking
+                old values, and uprooting old ways</tone>.</p>
+        <p>Our destiny in the midst of change will rest on the unchanged character of our people,
+            and on their faith.</p>
+
+        <p>They came here—the exile and the stranger, brave but frightened—to find a place where a
+            man could be his own man. <value type="democracy">They made a covenant with this land.
+                Conceived in justice, written in liberty, bound in union</value>, it was meant one
+            day to inspire the hopes of all mankind; and it binds us still. If we keep its terms, we
+            shall flourish.</p>
+
+        <p>First, justice was the promise that all who made the journey would share in the fruits of
+            the land.</p>
+        <p>In a land of great wealth, families must not live in hopeless poverty. <tone
+                emotion="provoking">In a land rich in harvest, children just must not go hungry. In
+                a land of healing miracles, neighbors must not suffer and die unattended. In a great
+                land of learning and scholars, young people must be taught to read and
+            write</tone>.</p>
+        <p>For the more than 30 years that I have served this Nation, <tone emotion="stress">I have
+                believed that this injustice to our people, this waste of our resources, was our
+                real enemy. For 30 years or more, with the resources I have had, I have vigilantly
+                fought against it. I have learned, and I know, that it will not surrender
+                easily</tone>.</p>
+        <p>But change has given us new weapons. Before this generation of Americans is finished,
+            this enemy will not only retreat—it will be conquered.</p>
+        <p>Justice requires us to remember that <policy civil_rights="race">when any citizen denies
+                his fellow, saying, “His color is not mine,” or “His beliefs are strange and
+                different,” in that moment he betrays America, though his forebears created this
+                Nation</policy>.</p>
+
+        <p><value type="liberty">Liberty was the second article of our covenant</value>. It was
+            self-government. It was our Bill of Rights. But it was more. America would be a place
+            where each man could be proud to be himself: stretching his talents, rejoicing in his
+            work, important in the life of his neighbors and his nation.</p>
+        <p>This has become more difficult in a world where change and growth seem to tower beyond
+            the control and even the judgment of men. We must work to provide the knowledge and the
+            surroundings which can enlarge the possibilities of every citizen.</p>
+        <p><value type="liberty">The American covenant called on us to help show the way for the
+                liberation of man. And that is today our goal</value>. Thus, if as a nation there is
+            much outside our control, as a people no stranger is outside our hope.</p>
+        <p><policy foreign="internationalism">Change has brought new meaning to that old mission. We
+                can never again stand aside, prideful in isolation. Terrific dangers and troubles
+                that we once called “foreign” now constantly live among us. If American lives must
+                end, and American treasure be spilled, in countries we barely know, that is the
+                price that change has demanded of conviction and of our enduring
+            covenant</policy>.</p>
+        <p><value type="science">Think of our world as it looks from the rocket that is heading
+                toward Mars</value>. It is like a child’s globe, hanging in space, the continents
+            stuck to its side like colored maps. We are all fellow passengers on a dot of earth. And
+            each of us, in the span of time, has really only a moment among our companions.</p>
+        <p><value type="unity">How incredible it is that in this fragile existence, we should hate
+                and destroy one another</value>. There are possibilities enough for all who will
+            abandon mastery over others to pursue mastery over nature. There is world enough for all
+            to seek their happiness in their own way.</p>
+        <p>Our Nation’s course is abundantly clear. We aspire to nothing that belongs to others.
+                <value type="liberty">We seek no dominion over our fellow man, but man’s dominion
+                over tyranny and misery</value>.</p>
+        <p>But more is required. Men want to be a part of a common enterprise—a cause greater than
+            themselves. Each of us must find a way to advance the purpose of the Nation, thus
+            finding new purpose for ourselves. Without this, we shall become a nation of
+            strangers.</p>
+
+        <p>The third article was union. <value type="unity">To those who were small and few against
+                the wilderness, the success of liberty demanded the strength of union</value>. Two
+            centuries of change have made this true.</p>
+        <p><value type="unity">No longer need capitalist and worker, farmer and clerk, city and
+                countryside, struggle to divide our bounty. By working shoulder to shoulder,
+                together we can increase the bounty of all. We have discovered that every child who
+                learns, every man who finds work, every sick body that is made whole—like a candle
+                added to an altar—brightens the hope of all the faithful</value>.</p>
+        <p>So let us reject any among us who seek to reopen old wounds and to rekindle old hatreds.
+            They stand in the way of a seeking nation.</p>
+        <p><value type="unity">Let us now join reason to faith and action to experience, to
+                transform our unity of interest into a unity of purpose. For the hour and the day
+                and the time are here to achieve progress without strife, to achieve change without
+                hatred</value>—not without difference of opinion, <tone rhetoric="appeal_to_future"
+                >but without the deep and abiding divisions which scar the union for
+                generations</tone>.</p>
+
+        <p><tone emotion="pride">Under this covenant of justice, liberty, and union we have become a
+                nation—prosperous, great, and mighty</tone>. <value type="liberty">And we have kept
+                our freedom</value>. <value type="religion">But we have no promise from God that our
+                greatness will endure. We have been allowed by Him to seek greatness with the sweat
+                of our hands and the strength of our spirit</value>.</p>
+        <p>I do not believe that the Great Society is the ordered, changeless, and sterile battalion
+            of the ants. <value type="progress">It is the excitement of becoming—always becoming,
+                trying, probing, falling, resting, and trying—but always trying and always
+                gaining</value>.</p>
+        <p><tone emotion="stress">In each generation, with toil and tears, we have had to earn our
+                heritage again</tone>.</p>
+        <p>If we fail now, we shall have forgotten in abundance what we learned in hardship: <value
+                type="democracy">that democracy rests on faith</value>, <value type="liberty">that
+                freedom asks more than it gives</value>, <value type="religion">and that the
+                judgment of God is harshest on those who are most favored</value>.</p>
+        <p>If we succeed, it will not be because of what we have, but it will be because of what we
+            are; not because of what we own, but, rather because of what we believe.</p>
+        <p>For we are a nation of believers. <value type="unity">Underneath the clamor of building
+                and the rush of our day’s pursuits, we are believers in justice and liberty and
+                union, and in our own Union</value>. <value type="liberty">We believe that every man
+                must someday be free</value>. And we believe in ourselves.</p>
+        <p>Our enemies have always made the same mistake. <tone emotion="pride">In my lifetime—in
+                depression and in war—they have awaited our defeat. Each time, from the secret
+                places of the American heart, came forth the faith they could not see or that they
+                could not even imagine</tone>. <tone emotion="optimistic">It brought us victory. And
+                it will again</tone>.</p>
+        <p>For this is what America is all about. It is the uncrossed desert and the unclimbed
+            ridge. It is the star that is not reached and the harvest sleeping in the unplowed
+            ground. Is our world gone? We say “Farewell.” Is a new world coming? We welcome it—and
+            we will bend it to the hopes of man.</p>
+        <p>To these trusted public servants and to my family and those close friends of mine who
+            have followed me down a long, winding road, and to all the people of this Union and the
+            world, I will repeat today what I said on that sorrowful day in November 1963: “I will
+            lead and I will do the best I can.”</p>
+        <p>But you must look within your own hearts to the old promises and to the old dream. They
+            will lead you best of all.</p>
+        <p>For myself, I ask only, in the words of an ancient leader: “Give me now wisdom and
+            knowledge, that I may go out and come in before this people: for who can judge this thy
+            people, that is so great?”</p>
+    </body>
+</speech>

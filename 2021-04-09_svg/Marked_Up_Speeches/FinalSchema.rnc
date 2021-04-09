@@ -1,0 +1,24 @@
+start=speech
+meta=element meta {name, den, class, kids, married, state, party, age, profession+, term, title, date}
+name = element name {text}
+den=element den {"Episcopal" | "Unitarian" | "Deist" | "Presbyterian" | "Dutch Reformed" | "Unaffiliated" | "Methodist" | "Disciple of Christ" | "Baptist" | "Congregationalist" | "Quaker" | "Roman Catholic" | "Episcopal Deist"}
+class=element class {"lower" | "middle" | "upper"}
+kids=element kids {xsd:int}
+married=element married {"married" | "single" | "divorced" | "widowed" | "divorced/remarried" | "widowed/remarried"}
+state=element state {text}
+party=element party {"Unaffiliated" | "Federalist" | "Democratic-Republican" | "Democratic" | "Whig" | "Independent" | "Republican" }
+age=element age {xsd:int}
+profession=element profession {"Farmer" | "Soldier" | "Lawyer" | "Diplomat" | "Teacher" | "Sheriff" | "Public Official" | "Judge" | "Professor" | "Businessman" | "Writer" | "Sailor" | "Community Organizer" | "Minister"| "Newspaper Publisher" | "Engineer" | "Actor" }
+term=element term {"1" | "2" | "3" | "4"}
+
+speech=element speech {meta, body}
+title=element title {text}
+date=element date {text}
+body=element body {p+}
+p=element p {mixed {reference*}}
+reference=element reference {mixed {god+, type, category}}
+god=element god {mixed {(style)}}
+style=attribute style {"poetic" | "name" | "Jesus" | "pronoun"| "title"}
+type=attribute type {"direct" | "indirect"}
+category=attribute category { "supplication" | "humility" | "praise" | "testimony"}
+

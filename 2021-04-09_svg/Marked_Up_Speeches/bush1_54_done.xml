@@ -1,0 +1,173 @@
+
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<speech>
+    <meta>
+        <name>George W. Bush</name>
+        <den>Methodist</den>
+        <class>upper</class>
+        <state>Texas</state>
+        <party>Republican</party>
+        <profession>Businessman</profession>
+        <term>1</term>
+        <title>Address by George W. Bush</title>
+        <date>January 20, 2001</date>
+    </meta>
+    <body>
+        <p>Thank you all.</p>
+        <p>Chief Justice Rehnquist, President Carter, President Bush—</p>
+        <p>President Clinton, distinguished guests, and my fellow citizens:</p>
+        <p><tone emotion="pride">This peaceful transfer of authority is rare in history, yet common
+                in our country</tone>. With a simple oath, we affirm old traditions and make new
+            beginnings.</p>
+        <p>As I begin, I thank President Clinton for his service to our Nation.</p>
+        <p>And I thank Vice President Gore for a contest conducted with spirit and ended with
+            grace.</p>
+        <p>I am honored and humbled to stand here, where so many of America’s leaders have come
+            before me and so many will follow.</p>
+        <p>We have a place, all of us, in a long story; a story we continue, but whose end we will
+            not see. It is the story of a new world that became a friend and liberator of the old,
+            the story of a <value type="democracy">slave-holding society that became a servant of
+                freedom</value>, the story of a power that went into the
+                world to protect but not possess, to defend but not to conquer. <tone
+                emotion="pride">It is the American story; a story of flawed and fallible people,
+                united across the generations by grand and enduring ideals</tone>.</p>
+        <p>The grandest of these ideals is an unfolding American promise: <value type="equality"
+                >that everyone belongs, that everyone deserves a chance, that no insignificant
+                person was ever born</value>.</p>
+        <p>Americans are called to enact this promise in our lives and in our laws. And though our
+            Nation has sometimes halted, and sometimes delayed, we must follow no other course.</p>
+        <p>Through much of the last century, <value type="democracy">America’s faith in freedom and
+                democracy was a rock in a raging sea</value>. <policy foreign="internationalism">Now
+                it is a seed upon the wind, taking root in many nations</policy>.</p>
+        <p><value type="democracy">Our democratic faith is more than the creed of our country, it is
+                the inborn hope of our humanity; an ideal we carry but do not own, a trust we bear
+                and pass along</value>. <value type="progress">And even after nearly 225 years, we
+                have a long way yet to travel</value>.</p>
+        <p>While many of our citizens prosper, others doubt the promise—even the justice—of our own
+            country. <policy education="schools">The ambitions of some Americans are limited by failing
+                schools</policy>, <value type="equality">and hidden prejudice, and the circumstances
+                of their birth</value>. And sometimes our differences run so deep, it seems we share
+            a continent, but not a country.</p>
+        <p>We do not accept this, and we will not allow it. <value type="unity">Our unity, our
+                union, is the serious work of leaders and citizens in every generation</value>. And
+            this is my solemn pledge: I will work to build a single nation of justice and
+            opportunity.</p>
+        <p>
+            <tone emotion="optimistic">I know this is within our reach</tone>, <value
+                type="religion">because we are guided by a power larger than ourselves who creates
+                us equal in His image</value>. </p>
+        <p><value type="unity">And we are confident in principles that unite and lead us
+                onward</value>.</p>
+        <p><value type="unity">America has never been united by blood or birth or soil. We are bound
+                by ideals that move us beyond our backgrounds, lift us above our interests, and
+                teach us what it means to be citizens</value>. Every child
+                must be taught these principles. Every citizen must uphold them. <policy
+                immigration="pro_immigration">And every immigrant, by embracing these ideals, makes our country
+                more, not less, American</policy>.</p>
+        <p><value type="civility">Today we affirm a new commitment to live out our Nation’s promise
+                through civility, courage, compassion, and character</value>.</p>
+        <p><value type="civility">America, at its best, matches a commitment to principle with a
+                concern for civility</value>.</p>
+        <p><value type="civility">A civil society demands from each of us good will and respect,
+                fair dealing and forgiveness</value>.</p>
+        <p>Some seem to believe that our politics can afford to be petty because, in a time of
+            peace, the stakes of our debates appear small. But the stakes, for America, are never
+            small. <policy foreign="internationalism">If our country does not lead the cause of
+                freedom, it will not be led</policy>. <tone rhetoric="appeal_to_future">If we do not turn the
+                hearts of children toward knowledge and character, we will lose their gifts and
+                undermine their idealism</tone>. <policy economy="general">If we permit our economy
+                to drift and decline, the vulnerable will suffer most</policy>.</p>
+        <p>We must live up to the calling we share. <value type="civility">Civility is not a tactic
+                or a sentiment. It is the determined choice of trust over cynicism, of community
+                over chaos. And this commitment, if we keep it, is a way to shared
+                accomplishment</value>.</p>
+        <p>America, at its best, is also courageous.</p>
+        <p><tone rhetoric="appeal_to_past">Our national courage has been clear in times of
+                depression and war, when defeating common dangers defined our common good. Now we
+                must choose if the example of our fathers and mothers will inspire us or condemn
+                us</tone>. <tone rhetoric="appeal_to_future">We must show courage in a time of
+                blessing by confronting problems instead of passing them onto future
+                generations</tone>.</p>
+        <p><policy education="schools">Together we will reclaim America’s schools, before ignorance and apathy claim more young lives</policy>. <policy
+                health="health_care">We will reform Social Security and Medicare</policy>, <tone
+                rhetoric="appeal_to_future">sparing our children from struggles we have the power to
+                prevent</tone>. <policy economy="tax">And we will reduce taxes, to recover the
+                momentum of our economy and reward the efforts and enterprise of working
+                Americans</policy>.</p>
+        <p>We will build our defenses beyond challenge, lest weakness invite
+                challenge.</p>
+        <p><policy military="war">We will confront weapons of mass destruction, so that a new century is
+                spared new horrors</policy>.</p>
+        <p><value type="democracy">The enemies of liberty and our country should make no
+                mistake</value>, <policy foreign="internationalism">America remains engaged in the world,
+                by history and by choice, shaping a balance of power that favors freedom. We will
+                defend our allies and our interests. We will show purpose without arrogance. We will
+                meet aggression and bad faith with resolve and strength. And to all nations, we will
+                speak for the values that gave our Nation birth</policy>.</p>
+        <p>America, at its best, is compassionate.</p>
+        <p>In the quiet of American conscience, we know that <value type="equality">deep, persistent
+                poverty is unworthy of our Nation’s promise</value>. <tone
+                rhetoric="appeal_to_future">And whatever our views of its cause, we can agree that
+                children at risk are not at fault</tone>. <value type="religion">Abandonment and
+                abuse are not acts of God; they are failures of love.</value></p>
+        <p><policy prison="order">And the proliferation of prisons, however necessary</policy>,
+            is no substitute for hope and order in our souls.</p>
+        <p>Where there is suffering, there is duty. <value type="equality">Americans in need are not
+                strangers, they are citizens; not problems, but priorities</value>. And all of us
+            are diminished when any are hopeless.</p>
+        <p>Government has great responsibilities, for <value type="security">public safety</value>
+            and <policy health="public_health">public health</policy>, <policy civil_rights="civil_rights">for civil
+                rights</policy> and <policy education="schools">common schools</policy>. Yet compassion
+            is the work of a nation, not just a government. And some needs and hurts are so deep,
+            they will only <value type="religion">respond to a mentor’s touch or a pastor’s prayer.
+                Church and charity, synagogue and mosque lend our communities their humanity, and
+                they will have an honored place in our plans and in our laws</value>.</p>
+        <p><value type="equality">Many in our country do not know the pain of poverty. But we can
+                listen to those who do</value>. And I can pledge our Nation to a goal. <value
+                type="religion">When we see that wounded traveler on the road to Jericho, we will
+                not pass to the other side</value>.</p>
+        <p>America, at its best, is a place where personal responsibility is valued and
+            expected.</p>
+        <p>Encouraging responsibility is not a search for scapegoats; it is a call to conscience.
+            And though it requires sacrifice, it brings a deeper fulfillment. We find the fullness
+            of life, not only in options, but in commitments. And we find that children and
+            community are the commitments that set us free.</p>
+        <p>Our public interest depends on private character; on civic duty and family bonds and
+            basic fairness; on uncounted, unhonored acts of decency which give direction to our
+            freedom. <tone emotion="inspiring">Sometimes in life we are called to do great things.
+                But as a saint of our times has said, every day we are called to do small things
+                with great love. The most important tasks of a democracy are done by
+            everyone</tone>.</p>
+        <p>I will live and lead by these principles: <value type="civility">to advance my
+                convictions with civility</value>; to pursue the public interest with courage; to
+            speak for greater justice and compassion; to call for responsibility, and try to live it
+            as well. In all these ways, I will bring the values of our history to the care of our
+            times.</p>
+        <p>What you do is as important as anything government does. I ask you to seek a common good
+            beyond your comfort; to defend needed reforms against easy attacks; to serve your
+            Nation, beginning with your neighbor. <value type="action">I ask you to be
+                citizens—citizens, not spectators; citizens, not subjects; responsible citizens
+                building communities of service and a nation of character</value>.</p>
+        <p><tone emotion="pride">Americans are generous and strong and decent, not because we
+                believe in ourselves, but because we hold beliefs beyond ourselves</tone>. When this
+            spirit of citizenship is missing, no government program can replace it. When this spirit
+            is present, no wrong can stand against it.</p>
+        <p>
+            <tone rhetoric="appeal_to_past">After the Declaration of Independence was signed,
+                Virginia statesman John Page wrote to Thomas Jefferson:</tone>
+        </p>
+        <p>We know the race is not to the swift nor the Battle to the Strong. Do you not think an
+            Angel rides in the Whirlwind and directs this Storm?</p>
+        <p><tone rhetoric="appeal_to_past">Much time has passed since Jefferson arrived for his
+                inauguration. The years and changes accumulate, but the themes of this day he would
+                know: our Nation’s grand story of courage and its simple dream of dignity</tone>. We
+            are not the story’s author, who fills time and eternity with His purpose. His purpose is
+            achieved in our duty; and our duty is fulfilled in service to one another.</p>
+        <p>Never tiring, never yielding, never finishing, we renew that purpose today: to make our
+            country more just and generous; to affirm the dignity of our lives and every life.</p>
+        <p>This work continues. This story goes on. And an angel still rides in the whirlwind and
+            directs this storm.</p>
+        <p>
+            <value type="religion">God bless you all, and God bless America</value>. </p>
+    </body>
+</speech>

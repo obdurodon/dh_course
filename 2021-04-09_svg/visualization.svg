@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(100, 941.8000000000001)">
+      <line x1="0"
+            y1="-0"
+            x2="1770"
+            y2="-0"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-0" text-anchor="end" dominant-baseline="middle">0</text>
+      <line x1="0"
+            y1="-100"
+            x2="1770"
+            y2="-100"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-100" text-anchor="end" dominant-baseline="middle">1000</text>
+      <line x1="0"
+            y1="-200"
+            x2="1770"
+            y2="-200"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-200" text-anchor="end" dominant-baseline="middle">2000</text>
+      <line x1="0"
+            y1="-300"
+            x2="1770"
+            y2="-300"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-300" text-anchor="end" dominant-baseline="middle">3000</text>
+      <line x1="0"
+            y1="-400"
+            x2="1770"
+            y2="-400"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-400" text-anchor="end" dominant-baseline="middle">4000</text>
+      <line x1="0"
+            y1="-500"
+            x2="1770"
+            y2="-500"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-500" text-anchor="end" dominant-baseline="middle">5000</text>
+      <line x1="0"
+            y1="-600"
+            x2="1770"
+            y2="-600"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-600" text-anchor="end" dominant-baseline="middle">6000</text>
+      <line x1="0"
+            y1="-700"
+            x2="1770"
+            y2="-700"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-700" text-anchor="end" dominant-baseline="middle">7000</text>
+      <line x1="0"
+            y1="-800"
+            x2="1770"
+            y2="-800"
+            stroke="lightgray"
+            stroke-width="1"/>
+      <text x="-20" y="-800" text-anchor="end" dominant-baseline="middle">8000</text>
+      <rect x="0" y="-142.5" width="20" height="142.5" fill="gray"/>
+      <text x="10" y="10" text-anchor="start" writing-mode="tb">George Washington (1789)</text>
+      <rect x="30" y="-13.5" width="20" height="13.5" fill="gray"/>
+      <text x="40" y="10" text-anchor="start" writing-mode="tb">George Washington (1793)</text>
+      <rect x="60"
+            y="-230.10000000000002"
+            width="20"
+            height="230.10000000000002"
+            fill="gray"/>
+      <text x="70" y="10" text-anchor="start" writing-mode="tb">John Adams (1797)</text>
+      <rect x="90" y="-170.8" width="20" height="170.8" fill="gray"/>
+      <text x="100" y="10" text-anchor="start" writing-mode="tb">Thomas Jefferson (1801)</text>
+      <rect x="120" y="-213.5" width="20" height="213.5" fill="gray"/>
+      <text x="130" y="10" text-anchor="start" writing-mode="tb">Thomas Jefferson (1805)</text>
+      <rect x="150"
+            y="-116.80000000000001"
+            width="20"
+            height="116.80000000000001"
+            fill="gray"/>
+      <text x="160" y="10" text-anchor="start" writing-mode="tb">James Madison (1809)</text>
+      <rect x="180" y="-120.5" width="20" height="120.5" fill="gray"/>
+      <text x="190" y="10" text-anchor="start" writing-mode="tb">James Madison (1813)</text>
+      <rect x="210" y="-334.5" width="20" height="334.5" fill="gray"/>
+      <text x="220" y="10" text-anchor="start" writing-mode="tb">James Monroe (1817)</text>
+      <rect x="240"
+            y="-415.40000000000003"
+            width="20"
+            height="415.40000000000003"
+            fill="gray"/>
+      <text x="250" y="10" text-anchor="start" writing-mode="tb">James Monroe (1821)</text>
+      <rect x="270" y="-290.7" width="20" height="290.7" fill="gray"/>
+      <text x="280" y="10" text-anchor="start" writing-mode="tb">John Quincy Adams (1825)</text>
+      <rect x="300" y="-112.4" width="20" height="112.4" fill="blue"/>
+      <text x="310" y="10" text-anchor="start" writing-mode="tb">Andrew Jackson (1829)</text>
+      <rect x="330" y="-117" width="20" height="117" fill="blue"/>
+      <text x="340" y="10" text-anchor="start" writing-mode="tb">Andrew Jackson (1833)</text>
+      <rect x="360" y="-382" width="20" height="382" fill="blue"/>
+      <text x="370" y="10" text-anchor="start" writing-mode="tb">Martin Van Buren (1837)</text>
+      <rect x="390"
+            y="-841.8000000000001"
+            width="20"
+            height="841.8000000000001"
+            fill="gray"/>
+      <text x="400" y="10" text-anchor="start" writing-mode="tb">William H. Harrison (1841)</text>
+      <rect x="420"
+            y="-478.40000000000003"
+            width="20"
+            height="478.40000000000003"
+            fill="blue"/>
+      <text x="430" y="10" text-anchor="start" writing-mode="tb">James K. Polk (1845)</text>
+      <rect x="450" y="-108.7" width="20" height="108.7" fill="gray"/>
+      <text x="460" y="10" text-anchor="start" writing-mode="tb">Zachary Taylor (1849)</text>
+      <rect x="480" y="-332.8" width="20" height="332.8" fill="blue"/>
+      <text x="490" y="10" text-anchor="start" writing-mode="tb">Franklin Pierce (1853)</text>
+      <rect x="510"
+            y="-265.40000000000003"
+            width="20"
+            height="265.40000000000003"
+            fill="blue"/>
+      <text x="520" y="10" text-anchor="start" writing-mode="tb">James Buchanan (1857)</text>
+      <rect x="540" y="-362.5" width="20" height="362.5" fill="red"/>
+      <text x="550" y="10" text-anchor="start" writing-mode="tb">Abraham Lincoln (1861)</text>
+      <rect x="570" y="-69.8" width="20" height="69.8" fill="red"/>
+      <text x="580" y="10" text-anchor="start" writing-mode="tb">Abraham Lincoln (1865)</text>
+      <rect x="600" y="-112" width="20" height="112" fill="red"/>
+      <text x="610" y="10" text-anchor="start" writing-mode="tb">Ulysses S. Grant (1869)</text>
+      <rect x="630" y="-133.5" width="20" height="133.5" fill="red"/>
+      <text x="640" y="10" text-anchor="start" writing-mode="tb">Ulysses S. Grant (1873)</text>
+      <rect x="660" y="-247" width="20" height="247" fill="red"/>
+      <text x="670" y="10" text-anchor="start" writing-mode="tb">Rutherford B. Hayes (1877)</text>
+      <rect x="690"
+            y="-296.90000000000003"
+            width="20"
+            height="296.90000000000003"
+            fill="red"/>
+      <text x="700" y="10" text-anchor="start" writing-mode="tb">James A. Garfield (1881)</text>
+      <rect x="720"
+            y="-167.70000000000002"
+            width="20"
+            height="167.70000000000002"
+            fill="blue"/>
+      <text x="730" y="10" text-anchor="start" writing-mode="tb">Grover Cleveland (1885)</text>
+      <rect x="750" y="-438.5" width="20" height="438.5" fill="red"/>
+      <text x="760" y="10" text-anchor="start" writing-mode="tb">Benjamin Harrison (1889)</text>
+      <rect x="780"
+            y="-201.10000000000002"
+            width="20"
+            height="201.10000000000002"
+            fill="blue"/>
+      <text x="790" y="10" text-anchor="start" writing-mode="tb">Grover Cleveland (1893)</text>
+      <rect x="810"
+            y="-395.70000000000005"
+            width="20"
+            height="395.70000000000005"
+            fill="red"/>
+      <text x="820" y="10" text-anchor="start" writing-mode="tb">William McKinley (1897)</text>
+      <rect x="840" y="-221.5" width="20" height="221.5" fill="red"/>
+      <text x="850" y="10" text-anchor="start" writing-mode="tb">William McKinley (1901)</text>
+      <rect x="870" y="-98.2" width="20" height="98.2" fill="red"/>
+      <text x="880" y="10" text-anchor="start" writing-mode="tb">Theodore Roosevelt (1905)</text>
+      <rect x="900" y="-542.5" width="20" height="542.5" fill="red"/>
+      <text x="910" y="10" text-anchor="start" writing-mode="tb">William Howard Taft (1909)</text>
+      <rect x="930"
+            y="-169.60000000000002"
+            width="20"
+            height="169.60000000000002"
+            fill="blue"/>
+      <text x="940" y="10" text-anchor="start" writing-mode="tb">Woodrow Wilson (1913)</text>
+      <rect x="960" y="-152.4" width="20" height="152.4" fill="blue"/>
+      <text x="970" y="10" text-anchor="start" writing-mode="tb">Woodrow Wilson (1917)</text>
+      <rect x="990" y="-332.5" width="20" height="332.5" fill="red"/>
+      <text x="1000" y="10" text-anchor="start" writing-mode="tb">Warren G. Harding (1921)</text>
+      <rect x="1020" y="-405.6" width="20" height="405.6" fill="red"/>
+      <text x="1030" y="10" text-anchor="start" writing-mode="tb">Calvin Coolidge (1925)</text>
+      <rect x="1050"
+            y="-369.90000000000003"
+            width="20"
+            height="369.90000000000003"
+            fill="red"/>
+      <text x="1060" y="10" text-anchor="start" writing-mode="tb">Herbert Hoover (1929)</text>
+      <rect x="1080" y="-187.5" width="20" height="187.5" fill="blue"/>
+      <text x="1090" y="10" text-anchor="start" writing-mode="tb">Franklin D. Roosevelt (1933)</text>
+      <rect x="1110" y="-180" width="20" height="180" fill="blue"/>
+      <text x="1120" y="10" text-anchor="start" writing-mode="tb">Franklin D. Roosevelt (1937)</text>
+      <rect x="1140" y="-131.4" width="20" height="131.4" fill="blue"/>
+      <text x="1150" y="10" text-anchor="start" writing-mode="tb">Franklin D. Roosevelt (1941)</text>
+      <rect x="1170"
+            y="-54.400000000000006"
+            width="20"
+            height="54.400000000000006"
+            fill="blue"/>
+      <text x="1180" y="10" text-anchor="start" writing-mode="tb">Franklin D. Roosevelt (1945)</text>
+      <rect x="1200" y="-226.3" width="20" height="226.3" fill="blue"/>
+      <text x="1210" y="10" text-anchor="start" writing-mode="tb">Harry S. Truman (1949)</text>
+      <rect x="1230"
+            y="-243.10000000000002"
+            width="20"
+            height="243.10000000000002"
+            fill="red"/>
+      <text x="1240" y="10" text-anchor="start" writing-mode="tb">Dwight D. Eisenhower (1953)</text>
+      <rect x="1260"
+            y="-163.10000000000002"
+            width="20"
+            height="163.10000000000002"
+            fill="red"/>
+      <text x="1270" y="10" text-anchor="start" writing-mode="tb">Dwight D. Eisenhower (1957)</text>
+      <rect x="1290"
+            y="-133.70000000000002"
+            width="20"
+            height="133.70000000000002"
+            fill="blue"/>
+      <text x="1300" y="10" text-anchor="start" writing-mode="tb">John F. Kennedy (1961)</text>
+      <rect x="1320" y="-146" width="20" height="146" fill="blue"/>
+      <text x="1330" y="10" text-anchor="start" writing-mode="tb">Lyndon Baines Johnson (1965)</text>
+      <rect x="1350"
+            y="-210.20000000000002"
+            width="20"
+            height="210.20000000000002"
+            fill="red"/>
+      <text x="1360" y="10" text-anchor="start" writing-mode="tb">Richard M. Nixon (1969)</text>
+      <rect x="1380"
+            y="-178.20000000000002"
+            width="20"
+            height="178.20000000000002"
+            fill="red"/>
+      <text x="1390" y="10" text-anchor="start" writing-mode="tb">Richard M. Nixon (1973)</text>
+      <rect x="1410"
+            y="-121.60000000000001"
+            width="20"
+            height="121.60000000000001"
+            fill="gray"/>
+      <text x="1420" y="10" text-anchor="start" writing-mode="tb">Jimmy Carter (1977)</text>
+      <rect x="1440" y="-242.3" width="20" height="242.3" fill="red"/>
+      <text x="1450" y="10" text-anchor="start" writing-mode="tb">Ronald Reagan (1981)</text>
+      <rect x="1470" y="-255" width="20" height="255" fill="red"/>
+      <text x="1480" y="10" text-anchor="start" writing-mode="tb">Ronald Reagan (1985)</text>
+      <rect x="1500" y="-230.8" width="20" height="230.8" fill="red"/>
+      <text x="1510" y="10" text-anchor="start" writing-mode="tb">George H.W. Bush (1989)</text>
+      <rect x="1530" y="-158.3" width="20" height="158.3" fill="blue"/>
+      <text x="1540" y="10" text-anchor="start" writing-mode="tb">Bill Clinton (1993)</text>
+      <rect x="1560" y="-214.9" width="20" height="214.9" fill="blue"/>
+      <text x="1570" y="10" text-anchor="start" writing-mode="tb">Bill Clinton (1997)</text>
+      <rect x="1590" y="-158.9" width="20" height="158.9" fill="red"/>
+      <text x="1600" y="10" text-anchor="start" writing-mode="tb">George W. Bush (2001)</text>
+      <rect x="1620" y="-205.3" width="20" height="205.3" fill="red"/>
+      <text x="1630" y="10" text-anchor="start" writing-mode="tb">George W. Bush (2005)</text>
+      <rect x="1650" y="-237.8" width="20" height="237.8" fill="blue"/>
+      <text x="1660" y="10" text-anchor="start" writing-mode="tb">Barack Obama (2009)</text>
+      <rect x="1680" y="-207.9" width="20" height="207.9" fill="blue"/>
+      <text x="1690" y="10" text-anchor="start" writing-mode="tb">Barack Obama (2013)</text>
+      <rect x="1710"
+            y="-127.30000000000001"
+            width="20"
+            height="127.30000000000001"
+            fill="red"/>
+      <text x="1720" y="10" text-anchor="start" writing-mode="tb">Donald John Trump (2017)</text>
+      <rect x="1740" y="-237.8" width="20" height="237.8" fill="blue"/>
+      <text x="1750" y="10" text-anchor="start" writing-mode="tb">Joeseph Robinette Biden Jr. (2021)</text>
+      <line x1="0"
+            y1="0"
+            x2="1770"
+            y2="0"
+            stroke="black"
+            stroke-width="2"
+            stroke-linecap="square"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-841.8000000000001"
+            stroke="black"
+            stroke-width="2"
+            stroke-linecap="square"/>
+   </g>
+</svg>

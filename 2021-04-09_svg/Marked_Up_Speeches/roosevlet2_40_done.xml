@@ -1,0 +1,65 @@
+
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<speech>
+    <meta>
+        <name>Franklin D. Roosevelt</name>
+        <den>Episcopal</den>
+        <class>upper</class>
+        <state>New York</state>
+        <party>Democratic</party>
+        <profession>Lawyer</profession>
+        <term>3</term>
+        <title>Address by Franklin D. Roosevelt</title>
+        <date>January 20, 1945</date>
+    </meta>
+    <body>
+        <p>Mr. Chief Justice, Mr. Vice President, my friends, you will understand and, I believe,
+            agree with my wish that the form of this inauguration be simple and its words brief.</p>
+        <p><tone emotion="stress">We Americans of today, together with our allies, are passing
+                through a period of supreme test</tone>. <value type="democracy">It is a test of our
+                courage—of our resolve—of our wisdom—our essential democracy</value>.</p>
+        <p>If we meet that test—successfully and honorably—we shall perform a service of historic
+            importance which men and women and children will honor throughout all time.</p>
+        <p>As I stand here today, having taken the solemn oath of office in the presence of my
+            fellow countrymen—<value type="religion">in the presence of our God</value>—<tone
+                emotion="optimistic">I know that it is America’s purpose that we shall not
+                fail</tone>.</p>
+        <p><policy military="peace">In the days and in the years that are to come we shall work for
+                a just and honorable peace, a durable peace, as today we work and fight for total
+                victory in war</policy>.</p>
+        <p><tone emotion="optimistic">We can and we will achieve such a peac</tone>e.</p>
+        <p>We shall strive for perfection. We shall not achieve it immediately—but we still shall
+            strive. <tone emotion="pride">We may make mistakes—but they must never be mistakes which
+                result from faintness of heart or abandonment of moral principle</tone>.</p>
+        <p>I remember that my old schoolmaster, Dr. Peabody, said, in days that seemed to us then to
+            be secure and untroubled: “<tone emotion="stress">Things in life will not always run
+                smoothly. Sometimes we will be rising toward the heights—then all will seem to
+                reverse itself and start downward</tone>. <tone emotion="optimistic">The great fact
+                to remember is that the trend of civilization itself is forever upward; that a line
+                drawn through the middle of the peaks and the valleys of the centuries always has an
+                upward trend</tone>.”</p>
+        <p>Our Constitution of 1787 was not a perfect instrument; it is not perfect yet. <value
+                type="unity">But it provided a firm base upon which all manner of men, of all races
+                and colors and creeds, could build our solid structure of democracy</value>.</p>
+        <p>And so today, in this year of war, 1945, we have learned lessons—at a fearful cost—and we
+            shall profit by them.</p>
+        <p><policy foreign="internationalism">We have learned that we cannot live alone, at peace;
+                that our own well-being is dependent on the well-being of other nations far away. We
+                have learned that we must live as men, not as ostriches, nor as dogs in the
+                manger</policy>.</p>
+        <p><policy foreign="internationalism">We have learned to be citizens of the world, members
+                of the human community</policy>.</p>
+        <p>We have learned the simple truth, as Emerson said, that “The only way to have a friend is
+            to be one.”</p>
+        <p>We can gain no lasting peace if we approach it with suspicion and mistrust or with fear.
+            We can gain it only if we proceed with the understanding, the confidence, and the
+            courage which flow from conviction.</p>
+        <p><value type="religion">The Almighty God has blessed our land in many ways. He has given
+                our people stout hearts and strong arms with which to strike mighty blows for
+                freedom and truth. He has given to our country a faith which has become the hope of
+                all peoples in an anguished world</value>.</p>
+        <p><value type="religion">So we pray to Him now for the vision to see our way clearly—to see
+                the way that leads to a better life for ourselves and for all our fellow men—to the
+                achievement of His will to peace on earth.</value></p>
+    </body>
+</speech>

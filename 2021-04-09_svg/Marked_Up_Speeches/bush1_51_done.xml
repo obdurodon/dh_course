@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<speech>
+    <meta>
+        <name>George H.W. Bush</name>
+        <den>Episcopal</den>
+        <class>upper</class>
+        <state>Texas</state>
+        <party>Republican</party>
+        <profession>Businessman</profession>
+        <term>1</term>
+        <title>Address by George H.W. Bush</title>
+        <date>January 20, 1989</date>
+    </meta>
+
+
+
+    <body>
+        <p>Mr. Chief Justice, Mr. President, Vice President Quayle, Senator Mitchell, Speaker
+            Wright, Senator Dole, Congressman Michel, and fellow citizens, neighbors, and
+            friends:</p>
+        <p>There is a man here who has earned a lasting place in our hearts and in our history.
+            President Reagan, on behalf of our Nation, I thank you for the wonderful things that you
+            have done for America.</p>
+        <p><tone rhetoric="appeal_to_past">I have just repeated word for word the oath taken by
+                George Washington 200 years ago</tone>, and <value type="religion">the Bible on
+                which I placed my hand is the Bible on which he placed his</value>. <tone
+                rhetoric="appeal_to_past">It is right that the memory of Washington be with us
+                today, not only because this is our Bicentennial Inauguration, but because
+                Washington remains the Father of our Country. And he would, I think, be gladdened by
+                this day; for today is the concrete expression of a stunning fact: our continuity
+                these 200 years since our government began</tone>.</p>
+        <p>We meet on democracy’s front porch, a good place to talk as neighbors and as friends. For
+            this is a day when our nation is made whole, when our differences, for a moment, are
+            suspended.</p>
+        <p><value type="religion">And my first act as President is a prayer. I ask you to bow your
+                heads</value>:</p>
+        <p>
+            <value type="religion">Heavenly Father, we bow our heads and thank You for Your love.
+                Accept our thanks for the peace that yields this day and the shared faith that makes
+                its continuance likely. Make us strong to do Your work, willing to heed and hear
+                Your will, and write on our hearts these words: “Use power to help people.” For we
+                are given power not to advance our own purposes, nor to make a great show in the
+                world, nor a name. There is but one just use of power, and it is to serve people.
+                Help us to remember it, Lord. Amen</value>. </p>
+        <p>I come before you and assume the Presidency at a moment rich with promise. <tone
+                emotion="optimistic">We live in a peaceful, prosperous time</tone>, but we can make
+            it better. <tone emotion="triumph">For a new breeze is blowing, and a world refreshed by
+                freedom seems reborn; for in man’s heart, if not in fact, the day of the dictator is
+                over</tone>. The totalitarian era is passing, its old ideas blown away like leaves
+            from an ancient, lifeless tree. A new breeze is blowing, and a nation refreshed by
+            freedom stands ready to push on. There is new ground to be broken, and new action to be
+            taken. <value type="action">There are times when the future seems thick as a fog; you
+                sit and wait, hoping the mists will lift and reveal the right path. But this is a
+                time when the future seems a door you can walk right through into a room called
+                tomorrow</value>.</p>
+        <p><policy foreign="internationalism">Great nations of the world are moving toward democracy
+                through the door to freedom. Men and women of the world move toward free markets
+                through the door to prosperity. The people of the world agitate for free expression
+                and free thought</policy> through <value type="democracy">the door to the moral and
+                intellectual satisfactions that only liberty allows</value>.</p>
+        <p><value type="democracy">We know what works: Freedom works. We know what’s right: Freedom
+                is right</value>. We know how to secure a more just and prosperous life for man on
+            Earth: through free markets, free speech, free elections, and the exercise of free will
+            unhampered by the state.</p>
+        <p>For the first time in this century, for the first time in perhaps all history, man does
+            not have to invent a system by which to live. We don’t have to talk late into the night
+            about which form of government is better. We don’t have to wrest justice from the kings.
+            We only have to summon it from within ourselves. <value type="action">We must act on
+                what we know</value>. I take as my guide the hope of a saint: <value type="unity">In
+                crucial things, unity</value>; in important things, diversity; in all things,
+            generosity.</p>
+        <p><tone emotion="pride">America today is a proud, free nation, decent and civil, a place we
+                cannot help but love. We know in our hearts, not loudly and proudly, but as a simple
+                fact, that this country has meaning beyond what we see, and that our strength is a
+                force for good</tone>. But have we changed as a nation even in our time? Are we
+            enthralled with material things, less appreciative of the nobility of work and
+            sacrifice?</p>
+        <p><value type="humility">My friends, we are not the sum of our possessions. They are not
+                the measure of our lives. In our hearts we know what matters</value>. We cannot hope
+            only to leave our children a bigger car, a bigger bank account. We must hope to give
+            them a sense of what it means to be a loyal friend, a loving parent, a citizen who
+            leaves his home, his neighborhood and town better than he found it. <tone
+                rhetoric="appeal_to_future">What do we want the men and women who work with us to
+                say when we are no longer there</tone>? That we were more driven to succeed than
+            anyone around us? Or that we stopped to ask if a sick child had gotten better, and
+            stayed a moment there to trade a word of friendship?</p>
+        <p>No President, no government, can teach us to remember what is best in what we are. But if
+            the man you have chosen to lead this government can help make a difference; if he can
+            celebrate the quieter, deeper successes that are made not of gold and silk, but of
+            better hearts and finer souls; if he can do these things, then he must.</p>
+        <p>America is never wholly herself unless she is engaged in high moral principle. We as a
+            people have such a purpose today. It is to make kinder the face of the Nation and
+            gentler the face of the world. My friends, we have work to do. <policy
+                homelessness="general">There are the homeless, lost and roaming</policy>. <value
+                type="equality">There are the children who have nothing, no love, no
+                normalcy</value>. <policy health="addiction">There are those who cannot free
+                themselves of enslavement to whatever addiction—drugs</policy>, <tone
+                emotion="provoking">welfare, the demoralization that rules the slum</tone>. <policy
+                crime="safety">There is crime to be conquered, the rough crime of the
+                streets</policy>. <value type="security">There are young women to be helped who are
+                about to become mothers of children they can’t care for and might not love. They
+                need our care, our guidance</value>, and our education, <policy health="abortion"
+                >though we bless them for choosing life</policy>.</p>
+        <p>The old solution, <policy economy="general">the old way, was to think that public money
+                alone could end these problems. But we have learned that is not so. And in any case,
+                our funds are low. We have a deficit to bring down</policy>. We have more will than
+            wallet; but will is what we need. We will make the hard choices, looking at what we have
+            and perhaps allocating it differently, making our decisions based on honest need and
+            prudent safety. And then we will do the wisest thing of all: <tone emotion="pride">We
+                will turn to the only resource we have that in times of need always grows—the
+                goodness and the courage of the American people</tone>.</p>
+        <p>I am speaking of a new engagement in the lives of others, a new activism, hands-on and
+            involved, that gets the job done. <value type="unity">We must bring in the generations,
+                harnessing the unused talent of the elderly and the unfocused energy of the
+                young</value>. For not only leadership is passed from generation to generation, but
+            so is stewardship. And the generation born after the Second World War has come of
+            age.</p>
+        <p>I have spoken of a thousand points of light, of all the community organizations that are
+            spread like stars throughout the Nation, doing good. We will work hand in hand,
+            encouraging, sometimes leading, sometimes being led, rewarding. We will work on this in
+            the White House, in the Cabinet agencies. I will go to the people and the programs that
+            are the brighter points of light, and I will ask every member of my government to become
+            involved. <value type="restoration">The old ideas are new again because they are not
+                old, they are timeless: duty, sacrifice, commitment, and a patriotism that finds its
+                expression in taking part and pitching in</value>.</p>
+        <p>We need a new engagement, too, between the Executive and the Congress. The challenges
+            before us will be thrashed out with the House and the Senate. We must bring the Federal
+            budget into balance. <value type="unity">And we must ensure that America stands before
+                the world united</value>, strong, <policy military="peace">at peace</policy>, <policy
+                economy="general">and fiscally sound</policy>. But, of course, things may be
+            difficult. <value type="unity">We need compromise; we have had dissension. We need
+                harmony; we have had a chorus of discordant voices</value>.</p>
+        <p>For Congress, too, has changed in our time. There has grown a certain divisiveness. We
+            have seen the hard looks and heard the statements in which not each other’s ideas are
+            challenged, but each other’s motives. <value type="unity">And our great parties have too
+                often been far apart and untrusting of each other</value>. <tone
+                rhetoric="appeal_to_past">It has been this way since Vietnam. That war cleaves us
+                still</tone>. But, friends, that war began in earnest a quarter of a century ago;
+            and surely the statute of limitations has been reached. This is a fact: The final lesson
+            of Vietnam is that no great nation can long afford to be sundered by a memory. A new
+            breeze is blowing, and the old bipartisanship must be made new again.</p>
+        <p>To my friends—and yes, I do mean friends—in the loyal opposition—and yes, I mean loyal: I
+            put out my hand. I am putting out my hand to you, Mr. Speaker. <value type="unity">I am
+                putting out my hand to you, Mr. Majority Leader. For this is the thing: This is the
+                age of the offered hand</value>. We can’t turn back clocks, and I don’t want to. But
+            when our fathers were young, Mr. Speaker, our differences ended at the water’s edge. And
+            we don’t wish to turn back time, but when our mothers were young, Mr. Majority Leader,
+            the Congress and the Executive were capable of working together to produce a budget on
+            which this nation could live. Let us negotiate soon and hard. But in the end, let us
+            produce. <value type="action">The American people await action</value>. They didn’t send
+            us here to bicker. They ask us to rise above the merely partisan. <value type="unity"
+                >“In crucial things, unity”—and this, my friends, is crucial</value>.</p>
+        <p><policy foreign="internationalism">To the world, too, we offer new engagement and a renewed
+                vow</policy>: We will stay strong to protect the peace. The “offered hand” is a
+            reluctant fist; but once made, strong, and can be used with great effect. <policy
+                foreign="internationalism">There are today Americans who are held against their will in
+                foreign lands, and Americans who are unaccounted for. Assistance can be shown here,
+                and will be long remembered</policy>. Good will begets good will. Good faith can be
+            a spiral that endlessly moves on.</p>
+        <p>Great nations like great men must keep their word. When America says something, America
+            means it, whether a treaty or an agreement or a vow made on marble steps. We will always
+            try to speak clearly, for candor is a compliment, but subtlety, too, is good and has its
+            place. <policy foreign="internationalism">While keeping our alliances and friendships around
+                the world strong, ever strong, we will continue the new closeness with the Soviet
+                Union, consistent both with our security and with progress</policy>. <tone
+                emotion="optimistic">One might say that our new relationship in part reflects the
+                triumph of hope and strength over experience. But hope is good, and so are strength
+                and vigilance</tone>.</p>
+        <p><tone emotion="triumph">Here today are tens of thousands of our citizens who feel the
+                understandable satisfaction of those who have taken part in democracy and seen their
+                hopes fulfilled</tone>. But my thoughts have been turning the past few days to those
+            who would be watching at home, <value type="patriotism">to an older fellow who will
+                throw a salute by himself when the flag goes by, and the women who will tell her
+                sons the words of the battle hymns</value>. I don’t mean this to be sentimental.
+                <value type="unity">I mean that on days like this, we remember that we are all part
+                of a continuum, inescapably connected by the ties that bind</value>.</p>
+        <p>Our children are watching in schools throughout our great land. <value type="democracy"
+                >And to them I say, thank you for watching democracy’s big day. For democracy
+                belongs to us all, and freedom is like a beautiful kite that can go higher and
+                higher with the breeze</value>. And to all I say: <value type="equality">No matter
+                what your circumstances or where you are, you are part of this day, you are part of
+                the life of our great nation</value>.</p>
+        <p><value type="equality">A President is neither prince nor pope, and I don’t seek a window
+                on men’s souls. In fact, I yearn for a greater tolerance, an easy-goingness about
+                each other’s attitudes and way of life</value>.</p>
+        <p>There are few clear areas in which <value type="unity">we as a society must rise up
+                united</value> and express our intolerance. <policy crime="drugs">The most obvious
+                now is drugs. And when that first cocaine was smuggled in on a ship, it may as well
+                have been a deadly bacteria, so much has it hurt the body, the soul of our country.
+                And there is much to be done and to be said, but take my word for it: This scourge
+                will stop</policy>.</p>
+        <p><value type="action">And so, there is much to do; and tomorrow the work begins</value>.
+                <tone emotion="optimistic">I do not mistrust the future; I do not fear what is
+                ahead</tone>. For our problems are large, but our heart is larger. Our challenges
+            are great, but our will is greater.And if our flaws are endless, <value type="religion"
+                >God’s love is truly boundless</value>.</p>
+        <p>Some see leadership as high drama, and the sound of trumpets calling, and sometimes it is
+            that. But I see history as a book with many pages, and each day we fill a page with acts
+            of hopefulness and meaning. The new breeze blows, a page turns, the story unfolds. And
+            so today a chapter begins, a small and stately story of unity, diversity, and
+            generosity—shared, and written, together.</p>
+        <p>Thank you. <value type="religion">God bless you and God bless the United States of
+                America</value>.</p>
+    </body>
+</speech>

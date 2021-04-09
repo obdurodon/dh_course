@@ -1,0 +1,209 @@
+
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<speech>
+    <meta>
+        <name>Bill Clinton</name>
+        <den>Baptist</den>
+        <class>lower</class>
+        <state>Arkansas</state>
+        <party>Democratic</party>
+        <profession>Lawyer</profession>
+        <term>2</term>
+        <title>Address by Bill Clinton</title>
+        <date>January 20, 1997</date>
+    </meta>
+    <body>
+        <p>My fellow citizens:</p>
+        <p>At this last Presidential inauguration of the 20th century, <tone
+                rhetoric="appeal to future">let us lift our eyes toward the challenges that await us
+                in the next century</tone>. <tone emotion="optimistic">It is our great good fortune
+                that time and chance have put us not only at the edge of a new century in a new
+                millennium, but on the edge of a bright new prospect in human affairs</tone>. A
+            moment that will define our course and our character for decades to come. We must keep
+            our old democracy forever young. <tone rhetoric="appeal_to_past">Guided by the ancient
+                vision of a promised land</tone>, let us set our sights upon a land of new
+            promise.</p>
+        <p><tone rhetoric="appeal_to_past">The promise of America was born in the 18th century out
+                of the bold conviction that we are all created equal. It was extended and preserved
+                in the 19th century, when our Nation spread across the continent, saved the Union,
+                and abolished the awful scourge of slavery</tone>.</p>
+        <p><tone emotion="pride">Then, in turmoil and triumph, that promise exploded onto the world
+                stage to make this the American century</tone>.</p>
+        <p><tone emotion="triumph">And what a century it has been</tone>. <policy economy="industry"
+                >America became the world’s mightiest industrial power</policy>, <policy
+                foreign="internationalism">saved the world from tyranny in two world wars and a long
+                cold war, and time and again reached out across the globe to millions who, like us,
+                longed for the blessings of liberty</policy>.</p>
+        <p>Along the way, Americans produced the great middle class and security in old age; <policy
+                education="schools">built unrivaled centers of learning and opened public schools to
+                all</policy>; <value type="science">split the atom and explored the heavens;
+                invented the computer and the microchip</value>; and <policy
+                civil_rights="race">deepened the wellspring of justice by making a
+                revolution in civil rights for African Americans and all minorities, and extending
+                the circle of citizenship, opportunity, and dignity to women</policy>.</p>
+        <p>Now, for the third time, a new century is upon us, and another time to choose. We began
+            the 19th century with a choice to spread our Nation from coast to coast. We began the
+            20th century, with a choice to harness the Industrial Revolution to our values of free
+            enterprise, conservation, and human decency. Those choices made all the difference. At
+            the dawn of the 21st century, a free people must now choose to shape the forces of the
+            Information Age and the global society, to unleash the limitless potential of all our
+            people, and, yes, to form a more perfect union.</p>
+        <p>When last we gathered, our march to this new future seemed less certain than it does
+            today. We vowed then to set a clear course, to renew our Nation.</p>
+        <p>In these 4 years, we have been <tone emotion="stress">touched by tragedy</tone>, <tone
+                emotion="pride">exhilarated by challenge, strengthened by achievement. America
+                stands alone as the world’s indispensable nation</tone>. <policy economy="general"
+                >Once again, our economy is the strongest on Earth</policy>. Once again, we are
+            building stronger families, thriving communities, <policy education="opportunities"
+                >better educational opportunities</policy>, <policy environment="climate_change">a
+                cleaner environment</policy>. Problems that once seemed destined to deepen, now bend
+            to our efforts: <value type="security">our streets are safer</value> and <policy
+                welfare="change">record numbers or our fellow citizens have moved from welfare to
+                work</policy>.</p>
+        <p>And once again, we have resolved for our time a great debate over the role of Government.
+            Today we can declare: Government is not the problem; and Government is not the solution.
+            We, the American people, we are the solution.</p>
+        <p><tone rhetoric="appeal_to_past">Our Founders understood that well, and gave us a
+                democracy strong enough to endure for centuries, flexible enough to face our common
+                challenges and advance our common dreams in each new day</tone>.</p>
+        <p><value type="progress">As times change, so Government must change. We need a new
+                Government for a new century</value>, a government humble enough not to try to solve
+            all our problems for us, but strong enough to give us the tools to solve our problems
+            for ourselves. A Government that is smaller, lives within its means, and does more with
+            less. Yet where it can stand up for our values and interests around the world, and where
+            it can give Americans the power to make a real difference in their everyday lives,
+            Government should do more, not less. The preeminent mission of our new Government is to
+            give all Americans an opportunity—not a guarantee—but a real opportunity to build better
+            lives.</p>
+        <p>Beyond that, my fellow citizens, the future is up to us. Our Founders taught us that the
+            preservation of our liberty and our Union depends upon responsible citizenship.</p>
+        <p>And we need a new sense of responsibility for a new century. There is work to do, work
+            that Government alone cannot do. <policy education="schools">Teaching children to
+                read</policy>. <policy welfare="change">Hiring people off welfare rolls</policy>.
+            Coming out from behind locked doors and shuttered windows to help <policy crime="drugs"
+                >reclaim our streets from drugs and gangs and crime</policy>. Taking time out of our
+            own lives to serve others.</p>
+        <p><value type="unity">Each and every one of us, in our own way, must assume personal
+                responsibility—not only for ourselves and our families, but for our neighbors and
+                our Nation</value>.</p>
+        <p>Our greatest responsibility is to <value type="unity">embrace a new spirit of community
+                for a new century. For any one of us to succeed, we must succeed as one
+                America</value>.</p>
+        <p>The challenge of our past remains the challenge of our future: Will we be one nation, one
+            people, with one common destiny—or not? Will we all come together, or come apart?</p>
+        <p><policy civil_rights="race">The divide of race has been America’s constant
+                curse</policy>. <policy immigration="general">And each new wave of immigrants gives
+                new targets to old prejudices</policy>. <value type="equality">Prejudice and
+                contempt, cloaked in the pretense of religious or political convictions, are no
+                different</value>.</p>
+        <p><tone emotion="stress">These forces have nearly destroyed our Nation in the past. They
+                plague us still. They fuel the fanaticism of terror, and they torment the lives of
+                millions in fractured nations all around the world</tone>.</p>
+        <p>These obsessions cripple both those who hate and, of course, those who are hated, robbing
+            both of what they might become. <tone emotion="optimistic">We cannot—we will not—succumb
+                to the dark impulses that lurk in the far regions of the soul, everywhere. We shall
+                overcome them</tone>.</p>
+        <p><value type="unity">We shall replace them with the generous spirit of a people who feel
+                at home with one another</value>.</p>
+        <p><value type="equality">Our rich texture of racial, religious and political diversity will
+                be a godsend in the 21st century</value>. <value type="unity">Great rewards will
+                come to those who can live together, learn together, work together, forge new ties
+                that bind together</value>.</p>
+        <p>As this new era approaches, we can already see its broad outlines. Ten years ago, the
+            Internet was the mystical province of physicists; today, it is a commonplace
+            encyclopedia for millions of schoolchildren. <value type="science">Scientists now are
+                decoding the blueprint of human life</value>. <policy health="public_health">Cures
+                for our most feared illnesses seem close at hand</policy>.</p>
+        <p><policy foreign="internationalism">The world is no longer divided into two hostile camps;
+                instead, now we are building bonds with nations that once were our adversaries.
+                Growing connections of commerce and culture give us a chance to lift the fortunes
+                and spirits of people the world over</policy>. <tone emotion="optimistic">And for
+                the very first time in all of history, more people on this planet live under
+                democracy than dictatorship</tone>.</p>
+        <p>My fellow Americans, as we look back at this remarkable century, we may ask, can we hope
+            not just to follow, but even to surpass the achievements of the 20th century in America,
+            and to avoid the awful bloodshed that stained its legacy? To that question, every
+            American here and every American in our land today must answer a resounding “Yes.”</p>
+        <p>This is the heart of our task: With a new vision of Government, a new sense of
+            responsibility, a new spirit of community, we will sustain America’s journey. The
+            promise we sought in a new land, we will find again in a land of new promise.</p>
+        <p>In this new land, <policy education="schools">education will be every citizen’s most
+                prized possession. Our schools will have the highest standards in the world,
+                igniting the spark of possibility in the eyes of every girl and every boy, and the
+                doors of higher education will be open to all. The knowledge and power of the
+                information age will be within reach, not just of the few but of every classroom,
+                every library, every child</policy>. Parents and children will have time not only to
+            work, but to read and to play together, and the plans they make at their kitchen table
+            will be those of a better home, a better job, a certain chance to go to college.</p>
+        <p>Our streets will echo again with the laughter of our children, <value type="security"
+                >because no one will try to shoot them or sell them drugs anymore</value>. <policy
+                economy="jobs">Everyone who can work will work, with today’s permanent underclass
+                part of tomorrow’s growing middle class</policy>. <policy health="public_health">New
+                miracles of medicine at last will reach not only those who can claim care
+                now</policy>, <value type="equality">but the children and hard-working families too
+                long denied</value>.</p>
+        <p><policy foreign="internationalism">We will stand mighty for peace and for freedom and
+                maintain a strong defense against terror and destruction. Our children will sleep
+                free from the threat of nuclear, chemical, or biological weapons</policy>. <policy
+                economy="industry">Ports and airports, farms and factories will thrive with trade
+                and innovation and ideas</policy>. <tone emotion="pride">And the world’s greatest
+                democracy</tone> will <policy foreign="internationalism">lead a whole world of
+                democracies</policy>.</p>
+        <p>Our land of new promise will be a Nation that meets its obligations: <policy
+                economy="budget">A Nation that balances its budget</policy>, but never loses the
+            balance of its values.</p>
+        <p>A nation where our <policy health="health_care">grandparents have secure retirement and
+                health care</policy>, and <tone rhetoric="appeal_to_future">their grandchildren know
+                we have made the reforms necessary to sustain those benefits for their time</tone>.
+                <tone emotion="pride">A Nation that fortifies the world’s most productive
+                economy</tone>, <policy environment="preservation">even as it protects the great
+                natural bounty of our water, air, and majestic land</policy>.</p>
+        <p>And in this land of new promise, we will have reformed our politics so that the voice of
+            the people will always speak louder than the din of narrow interests, regaining the
+            participation and deserving the trust of all Americans.</p>
+        <p>Fellow citizens, let us build that America, a nation ever moving forward toward realizing
+            the full potential of all its citizens. Prosperity and power, yes, they are important,
+            and we must maintain them, <value type="progress">but let us never forget: The greatest
+                progress we have made, and the greatest progress we have yet to make, is in the
+                human heart</value>. In the end, all the world’s wealth and a thousand armies are no
+            match for the strength and decency of the human spirit.</p>
+        <p><tone rhetoric="appeal_to_past">Thirty-four years ago, the man whose life we celebrate
+                today spoke to us down there, at the other end of this Mall, in words that moved the
+                conscience of a Nation. Like a prophet of old, he told of his dream that one day
+                America would rise up and treat all its citizens as equals before the law and in the
+                heart. Martin Luther King’s dream was the American dream. His quest is our quest:
+                the ceaseless striving to live out our true creed. Our history has been built on
+                such dreams and labors, and by our dreams and labors, we will redeem the promise of
+                America in the 21st century</tone>.</p>
+        <p>To that effort, I pledge all my strength and every power of my office. I ask the Members
+            of Congress here to join in that pledge. The American people returned to office a
+            President of one party and a Congress of another. <value type="unity">Surely, they did
+                not do this to advance the politics of petty bickering and extreme partisanship they
+                plainly deplore</value>.</p>
+        <p>No, they call on us all instead to be repairers of the breach and to move on with
+            America’s mission.</p>
+        <p><tone emotion="pride">America demands and deserves big things from us—and nothing big
+                ever came from being small</tone>.</p>
+        <p>Let us remember the <value type="religion">timeless wisdom of Cardinal Bernardin</value>
+            when facing the end of his own life. He said, “It is wrong to waste the precious gift of
+            time…on acrimony and division.”</p>
+        <p>Fellow citizens, we must not waste the precious gift of this time, for all of us are on
+            that same journey of our lives, and our journey, too, will come to an end. But the
+            journey of our America must go on.</p>
+        <p>And so, my fellow Americans, we must be strong, for there is much to dare. <tone
+                emotion="stress">The demands of our time are great, and they are different</tone>.
+            Let us meet them with faith and courage, with patience and a grateful, happy heart. Let
+            us shape the hope of this day into the noblest chapter in our history. <value
+                type="unity">Yes, let us build our bridge—a bridge wide enough and strong enough for
+                every American to cross over to a blessed land of new promise</value>. <tone
+                rhetoric="appeal_to_future">May those generations whose faces we cannot yet see,
+                whose names we may never know, say of us here that we led our beloved land into a
+                new century with the American dream alive for all her children</tone>, <value
+                type="unity">with the American promise of a more perfect Union a reality for all her
+                people</value>, <policy foreign="internationalism">with America’s bright flame of
+                freedom spreading throughout all the world</policy>.</p>
+        <p>From the height of this place and the summit of this century, let us go forth. <value
+                type="religion">May God “strengthen our hands for the good work ahead”—and always,
+                always bless our America</value>.</p>
+    </body>
+</speech>
