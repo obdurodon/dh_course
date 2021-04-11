@@ -4,8 +4,8 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:param name="input" as="xs:string" select="'unparsed-practice.txt'"/>
     <xsl:template name="xsl:initial-template">
-        <xsl:variable name="text" select="unparsed-text($input)"/>
-        <xsl:variable name="text-lines" select="unparsed-text-lines($input)"/>
+        <xsl:variable name="text" select="unparsed-text($input)" as="xs:string"/>
+        <xsl:variable name="text-lines" select="unparsed-text-lines($input)" as="xs:string+"/>
         <myElement>
             <sample type="unparsed-text">
                 <xsl:value-of select="$text"/>
