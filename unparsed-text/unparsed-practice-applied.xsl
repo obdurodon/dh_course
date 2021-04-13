@@ -8,10 +8,19 @@
         <root>
             <xsl:for-each select="$text-lines">
                 <line>
-                    <xsl:variable name="tokenized-line" select="tokenize(., ',')"/>
+                    <xsl:variable name="tokenized-line" select="tokenize(., '\t')"/>
                     <xsl:for-each select="$tokenized-line">
                         <data>
-                            <xsl:value-of select="$tokenized-line"/>
+                            <xsl:choose>
+                                <xsl:when test="position()=2">
+                                    <xsl:value-of
+                                        select="tokenize(., '/')[last()] ! substring-before(., '.txt')"
+                                    />
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="format-number(number(.), '0.00')"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
                         </data>
                     </xsl:for-each>
                 </line>
