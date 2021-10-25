@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presidents>
+  <president xml:id="Washington-1789" birth-year="1732" year-in="1789" year-out="1797"
+    death-year="1799">
+    <surname>Washington</surname>
+    <forenames>George</forenames>
+  </president>
+  <president xml:id="Adams-1797" birth-year="1735" year-in="1797" year-out="1801" death-year="1826">
+    <surname>Adams</surname>
+    <forenames>John</forenames>
+  </president>
+  <president xml:id="Jefferson-1801" birth-year="1743" year-in="1801" year-out="1809"
+    death-year="1826">
+    <surname>Jefferson</surname>
+    <forenames>Thomas</forenames>
+  </president>
+  <president xml:id="Madison-1809" birth-year="1751" year-in="1809" year-out="1817"
+    death-year="1836">
+    <surname>Madison</surname>
+    <forenames>James</forenames>
+  </president>
+  <president xml:id="Monroe-1817" birth-year="1758" year-in="1817" year-out="1825" death-year="1831">
+    <surname>Monroe</surname>
+    <forenames>James</forenames>
+  </president>
+  <president xml:id="Adams-1825" birth-year="1767" year-in="1825" year-out="1829" death-year="1848">
+    <surname>Adams</surname>
+    <forenames>John Quincy</forenames>
+  </president>
+  <president xml:id="Jackson-1829" birth-year="1767" year-in="1829" year-out="1837"
+    death-year="1845">
+    <surname>Jackson</surname>
+    <forenames>Andrew</forenames>
+  </president>
+  <president xml:id="Van-Buren-1837" birth-year="1782" year-in="1837" year-out="1841"
+    death-year="1862">
+    <surname>Van Buren</surname>
+    <forenames>Martin</forenames>
+  </president>
+  <president xml:id="Harrison-1841" birth-year="1773" year-in="1841" year-out="1841"
+    death-year="1841">
+    <surname>Harrison</surname>
+    <forenames>William Henry</forenames>
+  </president>
+  <president xml:id="Tyler-1841" birth-year="1790" year-in="1841" year-out="1845" death-year="1862">
+    <surname>Tyler</surname>
+    <forenames>John</forenames>
+  </president>
+  <president xml:id="Polk-1845" birth-year="1795" year-in="1845" year-out="1849" death-year="1849">
+    <surname>Polk</surname>
+    <forenames>James K.</forenames>
+  </president>
+  <president xml:id="Taylor-1849" birth-year="1784" year-in="1849" year-out="1850" death-year="1850">
+    <surname>Taylor</surname>
+    <forenames>Zachary</forenames>
+  </president>
+  <president xml:id="Fillmore-1850" birth-year="1800" year-in="1850" year-out="1853"
+    death-year="1874">
+    <surname>Fillmore</surname>
+    <forenames>Millard</forenames>
+  </president>
+  <president xml:id="Pierce-1853" birth-year="1804" year-in="1853" year-out="1857" death-year="1869">
+    <surname>Pierce</surname>
+    <forenames>Franklin</forenames>
+  </president>
+  <president xml:id="Buchanan-1857" birth-year="1791" year-in="1857" year-out="1861"
+    death-year="1868">
+    <surname>Buchanan</surname>
+    <forenames>James</forenames>
+  </president>
+  <president xml:id="Lincoln-1861" birth-year="1809" year-in="1861" year-out="1865"
+    death-year="1865">
+    <surname>Lincoln</surname>
+    <forenames>Abraham</forenames>
+  </president>
+  <president xml:id="Johnson-1865" birth-year="1808" year-in="1865" year-out="1869"
+    death-year="1875">
+    <surname>Johnson</surname>
+    <forenames>Andrew</forenames>
+  </president>
+  <president xml:id="Grant-1869" birth-year="1822" year-in="1869" year-out="1877" death-year="1885">
+    <surname>Grant</surname>
+    <forenames>Ulysses S.</forenames>
+  </president>
+  <president xml:id="Hayes-1877" birth-year="1822" year-in="1877" year-out="1881" death-year="1893">
+    <surname>Hayes</surname>
+    <forenames>Rutherford B.</forenames>
+  </president>
+  <president xml:id="Garfield-1881" birth-year="1831" year-in="1881" year-out="1881"
+    death-year="1881">
+    <surname>Garfield</surname>
+    <forenames>James A.</forenames>
+  </president>
+  <president xml:id="Arthur-1881" birth-year="1829" year-in="1881" year-out="1885" death-year="1886">
+    <surname>Arthur</surname>
+    <forenames>Chester A.</forenames>
+  </president>
+  <president xml:id="Cleveland-1885" birth-year="1837" year-in="1885" year-out="1889"
+    death-year="1908">
+    <surname>Cleveland</surname>
+    <forenames>Grover</forenames>
+  </president>
+  <president xml:id="Harrison-1889" birth-year="1833" year-in="1889" year-out="1893"
+    death-year="1901">
+    <surname>Harrison</surname>
+    <forenames>Benjamin</forenames>
+  </president>
+  <president xml:id="Cleveland-1893" birth-year="1837" year-in="1893" year-out="1897"
+    death-year="1908">
+    <surname>Cleveland</surname>
+    <forenames>Grover</forenames>
+  </president>
+  <president xml:id="McKinley-1897" birth-year="1843" year-in="1897" year-out="1901"
+    death-year="1901">
+    <surname>McKinley</surname>
+    <forenames>William</forenames>
+  </president>
+  <president xml:id="Roosevelt-1901" birth-year="1858" year-in="1901" year-out="1909"
+    death-year="1919">
+    <surname>Roosevelt</surname>
+    <forenames>Theodore</forenames>
+  </president>
+  <president xml:id="Taft-1909" birth-year="1857" year-in="1909" year-out="1913" death-year="1930">
+    <surname>Taft</surname>
+    <forenames>William Howard</forenames>
+  </president>
+  <president xml:id="Wilson-1913" birth-year="1856" year-in="1913" year-out="1921" death-year="1924">
+    <surname>Wilson</surname>
+    <forenames>Woodrow</forenames>
+  </president>
+  <president xml:id="Harding-1921" birth-year="1865" year-in="1921" year-out="1923"
+    death-year="1923">
+    <surname>Harding</surname>
+    <forenames>Warren G.</forenames>
+  </president>
+  <president xml:id="Coolidge-1923" birth-year="1872" year-in="1923" year-out="1929"
+    death-year="1933">
+    <surname>Coolidge</surname>
+    <forenames>Calvin</forenames>
+  </president>
+  <president xml:id="Hoover-1929" birth-year="1874" year-in="1929" year-out="1933" death-year="1964">
+    <surname>Hoover</surname>
+    <forenames>Herbert</forenames>
+  </president>
+  <president xml:id="Roosevelt-1933" birth-year="1882" year-in="1933" year-out="1945"
+    death-year="1945">
+    <surname>Roosevelt</surname>
+    <forenames>Franklin D.</forenames>
+  </president>
+  <president xml:id="Truman-1945" birth-year="1884" year-in="1945" year-out="1953" death-year="1972">
+    <surname>Truman</surname>
+    <forenames>Harry S.</forenames>
+  </president>
+  <president xml:id="Eisenhower-1953" birth-year="1890" year-in="1953" year-out="1961"
+    death-year="1969">
+    <surname>Eisenhower</surname>
+    <forenames>Dwight D.</forenames>
+  </president>
+  <president xml:id="Kennedy-1961" birth-year="1917" year-in="1961" year-out="1963"
+    death-year="1963">
+    <surname>Kennedy</surname>
+    <forenames>John F.</forenames>
+  </president>
+  <president xml:id="Johnson-1963" birth-year="1908" year-in="1963" year-out="1969"
+    death-year="1973">
+    <surname>Johnson</surname>
+    <forenames>Lyndon B.</forenames>
+  </president>
+  <president xml:id="Nixon-1969" birth-year="1913" year-in="1969" year-out="1974" death-year="1994">
+    <surname>Nixon</surname>
+    <forenames>Richard</forenames>
+  </president>
+  <president xml:id="Ford-1974" birth-year="1913" year-in="1974" year-out="1977" death-year="2006">
+    <surname>Ford</surname>
+    <forenames>Gerald</forenames>
+  </president>
+  <president xml:id="Carter-1977" birth-year="1924" year-in="1977" year-out="1981">
+    <surname>Carter</surname>
+    <forenames>Jimmy</forenames>
+  </president>
+  <president xml:id="Reagan-1981" birth-year="1911" year-in="1981" year-out="1989" death-year="2004">
+    <surname>Reagan</surname>
+    <forenames>Ronald</forenames>
+  </president>
+  <president xml:id="Bush-1989" birth-year="1924" year-in="1989" year-out="1993" death-year="2018">
+    <surname>Bush</surname>
+    <forenames>George H. W.</forenames>
+  </president>
+  <president xml:id="Clinton-1993" birth-year="1946" year-in="1993" year-out="2001">
+    <surname>Clinton</surname>
+    <forenames>Bill</forenames>
+  </president>
+  <president xml:id="Bush-2001" birth-year="1946" year-in="2001" year-out="2009">
+    <surname>Bush</surname>
+    <forenames>George W.</forenames>
+  </president>
+  <president xml:id="Obama-2009" birth-year="1961" year-in="2009" year-out="2017">
+    <surname>Obama</surname>
+    <forenames>Barack</forenames>
+  </president>
+  <president xml:id="Trump-2017" birth-year="1946" year-in="2017" year-out="2021">
+    <surname>Trump</surname>
+    <forenames>Donald</forenames>
+  </president>
+  <president xml:id="Biden-2021" birth-year="1942" year-in="2021" year-out="">
+    <surname>Biden</surname>
+    <forenames>Joe</forenames>
+  </president>
+</presidents>

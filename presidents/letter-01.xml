@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="presidents.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<letter>
+  <body>blah blah blah <president ref="Kennedy-1961">Kennedy</president> did X but <president
+      ref="Johnson-1963">Johnson</president> changed it to Y blah blah blah</body>
+</letter>
