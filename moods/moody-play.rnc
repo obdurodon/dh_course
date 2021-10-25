@@ -2,7 +2,7 @@
 start = play
 play = element play { act+ }
 act = element act { scene+ }
-scene = element scene { (stage | sp)* }
+scene = element scene { (stage | sp)+ }
 stage = element stage { text }
 sp = element sp { who, mood, text }
 # @mood values are ordered by importance
