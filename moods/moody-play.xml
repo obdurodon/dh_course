@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="moody-play.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="moody-play.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<play>
+  <act>
+    <scene>
+      <stage>Enter Larry, Moe, and Curly</stage>
+      <sp who="larry" mood="not_specified">I am the straight man, a comic foil for others.</sp>
+      <sp who="moe" mood="infuriated">You knucklehead!</sp>
+      <sp who="curly" mood="cheerful giddy giggly">Nyuk, nyuk, nyuk …</sp>
+      <sp who="moe larry" mood="dorky">We can speak in unison.</sp>
+      <sp who="moe" mood="cheerful excited energetic ecstatic bouncy pleased">I'm not always
+        angry</sp>
+      <stage>Exeunt</stage>
+    </scene>
+  </act>
+</play>
